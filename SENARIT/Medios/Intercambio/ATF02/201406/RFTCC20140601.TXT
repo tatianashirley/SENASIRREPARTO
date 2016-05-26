@@ -1,0 +1,6 @@
+4|ATF|201406|1|02|100094119|62055|2387257|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+4|ATF|201406|1|02|100094119|62055|2387257|||E23|Titular existente
+4|ATF|201406|1|02|100094429|66428|422705|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+4|ATF|201406|1|02|100094429|66428|422705|||E23|Titular existente
+4|ATF|201406|1|02|100096578|65869|2013793|||E23|Titular existente
+4|ATF|201406|1|02|100096578|65869|2013793|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS

@@ -1,0 +1,1 @@
+2|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <80,85> en la columna PorcentajeAsignacion. El tipo esperado es Decimal.

@@ -1,0 +1,10 @@
+C:\SincronizarRespaldos\ProyectoSeguridad_0.05\wcfRRHH\bin\wcfRRHH.dll
+C:\SincronizarRespaldos\ProyectoSeguridad_0.05\wcfRRHH\bin\wcfRRHH.pdb
+C:\SincronizarRespaldos\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.csprojResolveAssemblyReference.cache
+C:\SincronizarRespaldos\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.dll
+C:\SincronizarRespaldos\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.pdb
+C:\ProyectosSenasir\ProyectoSeguridad_0.05\wcfRRHH\bin\wcfRRHH.dll
+C:\ProyectosSenasir\ProyectoSeguridad_0.05\wcfRRHH\bin\wcfRRHH.pdb
+C:\ProyectosSenasir\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.csprojResolveAssemblyReference.cache
+C:\ProyectosSenasir\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.dll
+C:\ProyectosSenasir\ProyectoSeguridad_0.05\wcfRRHH\obj\Debug\wcfRRHH.pdb

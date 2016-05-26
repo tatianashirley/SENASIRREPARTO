@@ -1,0 +1,3 @@
+3|80|CR|201504|1|02|1018656|13120|5013100952|20150401|100|E118|Error en monto pagado ente gestor de salud
+3|80|CR|201504|1|02|1286791|54733|1329420|20150401|100|E118|Error en monto pagado ente gestor de salud
+3|80|CR|201504|1|02|1511063|94921|6218371|20150401|100|E118|Error en monto pagado ente gestor de salud

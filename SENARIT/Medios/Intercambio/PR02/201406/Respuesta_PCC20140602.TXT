@@ -1,0 +1,1 @@
+25|0|Índice fuera de los límites de la matriz.

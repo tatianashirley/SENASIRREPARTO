@@ -1,0 +1,5 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\wcfEjemplo\bin\wcfEjemplo.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\wcfEjemplo\bin\wcfEjemplo.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\wcfEjemplo\obj\Debug\wcfClasificadores.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\wcfEjemplo\obj\Debug\wcfEjemplo.pdb

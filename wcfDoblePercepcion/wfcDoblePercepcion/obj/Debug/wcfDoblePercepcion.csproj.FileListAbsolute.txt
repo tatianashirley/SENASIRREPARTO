@@ -1,0 +1,84 @@
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back - copia (5) - copia\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Desktop\back-sistemas\senarit2.1\senarit2\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+I:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+J:\back\04092015\back25082015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+K:\back\24092015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back04112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Desktop\back-sistemas\back27112015\SENARIT\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wcfDoblePercepcion.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+D:\Mayo\SENASIR_18052016\wcfDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb

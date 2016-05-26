@@ -1,0 +1,4 @@
+176|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <TEMP> en la columna NumeroIdentificacion. El tipo esperado es Int64.
+94|5|El campo: tipo_doc, no cumple con el formato
+145|5|El campo: tipo_doc, no cumple con el formato
+148|5|El campo: tipo_doc, no cumple con el formato

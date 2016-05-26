@@ -1,0 +1,5 @@
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\wcfServicioIntercambio\bin\wcfServicioIntercambio.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\wcfServicioIntercambio\bin\wcfServicioIntercambio.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\wcfServicioIntercambio\obj\Debug\wcfServicioIntercambio.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\wcfServicioIntercambio\obj\Debug\wcfServicioIntercambio.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\wcfServicioIntercambio\obj\Debug\wcfServicioIntercambio.csprojResolveAssemblyReference.cache

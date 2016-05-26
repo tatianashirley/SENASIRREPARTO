@@ -1,0 +1,68 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+C:\Users\GCarranza\Desktop\compilar\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+D:\VS2015\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\VS2015\SENARIT\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\sistemas\SENASIR11052016\SENASIR\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+D:\Mayo\SENASIR_18052016\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb

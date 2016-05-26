@@ -1,0 +1,28 @@
+11|ABR|201408|1|01|599220|93808|1726190|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|3020721|65931|109300|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|7284925|112203|603484|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|17528151|79255|1538111|||E45|Derechohabiente existente
+11|ABR|201408|1|01|21485801|4712|3453746|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|21485801|4712|6779236|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|21485801|4712|6779259|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|26405362|23671|2460482|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33457891|67252|496271|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33643982|42681|2266294|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33818514|36813|2793453|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33818514|36813|7306235|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33818514|36813|7394755|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|33818514|36813|7394756|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|34575091|36678|786496|||E42|Error en el periodo_pla
+11|ABR|201408|1|01|35840419|66501|615539|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|35840419|66501|4987509|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40032048|67749|545683|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40033107|67781|113932|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40257514|67276|668448|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40454113|58157|4934927|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40454162|67817|2376140|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40473910|66097|3071137|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40473910|66097|7452375|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40728869|67518|2944089|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|40815781|66195|937558|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|100159709|111345|1558775|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+11|ABR|201408|1|01|100462200|59733|2371560|||E47|Beneficiarios sin registro del titular o identificador inconsistente

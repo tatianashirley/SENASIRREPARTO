@@ -1,0 +1,2 @@
+1|19|El campo: tipo_reg, no cumple con el formato
+11|4|El campo: tipo_cc, no cumple con el formato

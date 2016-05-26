@@ -1,0 +1,29 @@
+32|64|ATR|201504|1|01|1017512|90433|2212218|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|105|ATR|201504|1|01|1017512|90433|2212218|||E34|Diferencias de datos en el alta del titular
+32|105|ATR|201504|1|01|1017512|90433|2212218|||E34|Diferencias de datos en el alta del titular
+32|105|ATR|201504|1|01|2347386|50423|1597168|||E34|Diferencias de datos en el alta del titular
+32|64|ATR|201504|1|01|2347386|50423|1597168|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|16|ATR|201504|1|01|2347386|50423|1597168|||E23|Titular existente
+32|16|ATR|201504|1|01|2753182|74824|2286750|||E23|Titular existente
+32|64|ATR|201504|1|01|2753182|74824|2286750|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|105|ATR|201504|1|01|2753182|74824|2286750|||E34|Diferencias de datos en el alta del titular
+32|105|ATR|201504|1|01|3035669|43345|2839617|||E34|Diferencias de datos en el alta del titular
+32|64|ATR|201504|1|01|3035669|43345|2839617|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|16|ATR|201504|1|01|3035669|43345|2839617|||E23|Titular existente
+32|16|ATR|201504|1|01|4278057|111944|5372219|||E23|Titular existente
+32|64|ATR|201504|1|01|4278057|111944|5372219|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|105|ATR|201504|1|01|4278057|111944|5372219|||E34|Diferencias de datos en el alta del titular
+32|64|ATR|201504|1|01|11663418|64393|6529028|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|16|ATR|201504|1|01|11663418|64393|6529028|||E23|Titular existente
+32|64|ATR|201504|1|01|11828811|27604|2324761|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|105|ATR|201504|1|01|11828811|27604|2324761|||E34|Diferencias de datos en el alta del titular
+32|16|ATR|201504|1|01|11828811|27604|2324761|||E23|Titular existente
+32|16|ATR|201504|1|01|25951221|74091|617799|||E23|Titular existente
+32|64|ATR|201504|1|01|25951221|74091|617799|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|64|ATR|201504|1|01|26620522|102471|2203419|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|16|ATR|201504|1|01|26620522|102471|2203419|||E23|Titular existente
+32|105|ATR|201504|1|01|26620522|102471|2203419|||E34|Diferencias de datos en el alta del titular
+32|105|ATR|201504|1|01|26864034|94329|2383404|||E34|Diferencias de datos en el alta del titular
+32|16|ATR|201504|1|01|26864034|94329|2383404|||E23|Titular existente
+32|64|ATR|201504|1|01|26864034|94329|2383404|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+32|64|ATR|201504|1|01|26864034|94329|2383404|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS

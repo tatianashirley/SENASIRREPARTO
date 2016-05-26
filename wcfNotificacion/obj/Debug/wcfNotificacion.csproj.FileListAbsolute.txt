@@ -1,0 +1,291 @@
+D:\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\Modificaciones28062015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+C:\Users\Jedah\Desktop\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\SENARIT\wcfNotificacion\bin\System.Net.Http.dll
+D:\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\SENARIT\wcfNotificacion\bin\System.Net.Http.xml
+D:\SENARIT\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\Presentacion Domingo\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\SENARIT_SUBVERSION_2015\Desarrollo\WEB\trunk\SENARIT30082015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\back_apli\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\back_apli\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\back_apli\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\back_apli\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\back_apli\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\back_apli\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\back_apli\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\back_publicado\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\back_publicado\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\back_publicado\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\back_publicado\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\back_publicado\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\back_publicado\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\wcfNotificacion.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Web.Http.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\wcfSeguridad.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Web.Http.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\wcfNotificacion.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Web.Http.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\wcfSeguridad.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Web.Http.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\wcfNotificacion.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Web.Http.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\wcfSeguridad.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Web.Http.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\wcfNotificacion.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Web.Http.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\wcfSeguridad.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Web.Http.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\obj\Debug\wcfNotificacion.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\es\System.Net.Http.Formatting.resources.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\es\System.Web.Http.resources.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfNotificacion\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\wcfNotificacion.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\wcfNotificacion.pdb
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Newtonsoft.Json.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.Formatting.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.WebRequest.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Web.Http.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Web.Http.WebHost.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\wcfSeguridad.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\Newtonsoft.Json.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.Formatting.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Net.Http.WebRequest.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Web.Http.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\System.Web.Http.WebHost.xml
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\wcfSeguridad.pdb
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\es\System.Net.Http.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\es\System.Web.Http.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\obj\Debug\wcfNotificacion.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\wcfNotificacion\obj\Debug\wcfNotificacion.dll
+D:\Mayo\SENASIR_18052016\wcfNotificacion\obj\Debug\wcfNotificacion.pdb

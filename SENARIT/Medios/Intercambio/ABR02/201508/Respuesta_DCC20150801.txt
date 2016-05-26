@@ -1,0 +1,1 @@
+51|10|El campo: nom1, no cumple con el formato

@@ -1,0 +1,21 @@
+D:\pruebas\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+D:\pruebas\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+D:\pruebas\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.csprojResolveAssemblyReference.cache
+D:\pruebas\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+D:\pruebas\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wfcDoblePercepcion.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\bin\wcfSeguridad.pdb
+C:\Users\sfernandez\Documents\Visual Studio 2012\ProyectoIntegrado\back\SENARIT\wfcDoblePercepcion\wfcDoblePercepcion\obj\Debug\wfcDoblePercepcion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+C:\ProyectosDW\ProyectoSS\wcfEjemplo\obj\Debug\wcfEjemplo.csprojResolveAssemblyReference.cache
+C:\ProyectosDW\ProyectoSS\wcfEjemplo\bin\wcfEjemplo.dll
+C:\ProyectosDW\ProyectoSS\wcfEjemplo\bin\wcfEjemplo.pdb
+C:\ProyectosDW\ProyectoSS\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+C:\ProyectosDW\ProyectoSS\wcfEjemplo\obj\Debug\wcfEjemplo.pdb
+C:\ProyectosDW\ProyectoEjemplo\wcfEjemplo\bin\wcfEjemplo.dll
+C:\ProyectosDW\ProyectoEjemplo\wcfEjemplo\bin\wcfEjemplo.pdb
+C:\ProyectosDW\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.csprojResolveAssemblyReference.cache
+C:\ProyectosDW\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+C:\ProyectosDW\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.pdb
+C:\inetpub\wwwroot\ProyectoEjemplo\wcfEjemplo\bin\wcfEjemplo.dll
+C:\inetpub\wwwroot\ProyectoEjemplo\wcfEjemplo\bin\wcfEjemplo.pdb
+C:\inetpub\wwwroot\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+C:\inetpub\wwwroot\ProyectoEjemplo\wcfEjemplo\obj\Debug\wcfEjemplo.pdb
+D:\metas de gestion\4-ProyectoEjemplo-fuente mario\wcfEjemplo\bin\wcfEjemplo.dll
+D:\metas de gestion\4-ProyectoEjemplo-fuente mario\wcfEjemplo\bin\wcfEjemplo.pdb
+D:\metas de gestion\4-ProyectoEjemplo-fuente mario\wcfEjemplo\obj\Debug\wcfEjemplo.csprojResolveAssemblyReference.cache
+D:\metas de gestion\4-ProyectoEjemplo-fuente mario\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+D:\metas de gestion\4-ProyectoEjemplo-fuente mario\wcfEjemplo\obj\Debug\wcfEjemplo.pdb
+D:\metas de gestion\SENARIT\wcfEjemplo\bin\wcfEjemplo.dll
+D:\metas de gestion\SENARIT\wcfEjemplo\bin\wcfEjemplo.pdb
+D:\metas de gestion\SENARIT\wcfEjemplo\obj\Debug\wcfEjemplo.dll
+D:\metas de gestion\SENARIT\wcfEjemplo\obj\Debug\wcfEjemplo.pdb
+D:\metas de gestion\SENARIT\wcfEjemplo\obj\Debug\wcfEjemplo.csprojResolveAssemblyReference.cache

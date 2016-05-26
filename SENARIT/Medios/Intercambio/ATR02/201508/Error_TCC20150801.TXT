@@ -1,0 +1,589 @@
+5|14|ATR|201508|1|02|24791|61608|2462766|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|162681|11930|2379680|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|395341|17224|1126422|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|395341|17224|1126422|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|547244|55902|2169203|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|679501|36293|1812606|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|679501|36293|1812606|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|759156|11560|2388949|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|759156|11560|2388949|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|803303|43090|2854865|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|803303|43090|2854865|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|877578|26074|3323227|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|877578|26074|3323227|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|898296|40455|2018618|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|898296|40455|2018618|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|939602|1987|132354|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|939602|1987|132354|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|939602|1987|132354|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|955191|48914|2664051|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|955191|48914|2664051|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|969114|41114|3696389|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|969114|41114|3696389|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|1028248|46677|1422240|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|1028248|46677|1422240|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|1148746|75987|811166|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|1437343|88489|960858|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|1477511|28080|2821169|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|1477511|28080|2821169|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|1490436|102496|3062202|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|1569703|57487|1049214|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|1614204|27160|2180994|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|1614204|27160|2180994|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|1671121|29704|2529588|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|1671121|29704|2529588|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|1792325|44867|1007613|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|1910978|12489|2606594|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|1910978|12489|2606594|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|1916075|103095|2285949|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|1999369|12304|3358622|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|1999369|12304|3358622|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2023647|61961|3206619|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|2023647|61961|3206619|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|2150219|75367|1242584|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|2244949|34714|959536|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2244949|34714|959536|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2253148|62922|1319148|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|2253148|62922|1319148|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2253604|39241|2287390|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|2253604|39241|2287390|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|2271001|75438|1046708|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2271001|75438|1046708|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|2359315|10872|1025498|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2359315|10872|1025498|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|2375898|6148|1184225|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|2564713|8386|3469534|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2564713|8386|3469534|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2567714|64106|344201|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|2568998|114511|1069580|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2568998|114511|1069580|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|2596581|43093|1574242|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2632196|76607|1990112|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|2730959|100818|933198|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2730959|100818|933198|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2811108|60576|985277|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|2891360|43217|1050315|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2891360|43217|1050315|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|2916162|94331|80337|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|2916162|94331|80337|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|2916162|94331|80337|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|2926003|82502|1652648|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|2943918|15007|246832|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|3131294|46717|2397071|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|3131294|46717|2397071|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|3193056|5142|2337805|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|3193056|5142|2337805|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|3204972|73605|2355370|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|3204972|73605|2355370|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|3298255|13616|1267517|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|3523123|8506|2969127|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|3523123|8506|2969127|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|3736040|38208|450676|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|3750218|76181|2334035|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|3750462|71983|815285|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|3874072|58280|1061792|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|3874072|58280|1061792|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|3977559|50531|2819834|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|3977559|50531|2819834|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|4081894|28327|2831633|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|4081894|28327|2831633|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|4166361|77061|1034101|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|4168240|77406|2249040|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|4317920|33031|1967761|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|4317920|33031|1967761|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|4394562|114528|1825784|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|4394562|114528|1825784|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|4417148|6873|1792941|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|4417148|6873|1792941|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|4418426|87608|2201683|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|4462336|54315|1062479|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|4462336|54315|1062479|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|4536289|47623|2321118|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|4536289|47623|2321118|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|4581234|2238|2207229|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|4603424|71995|2073353|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|4603424|71995|2073353|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|4651649|33373|1980444|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|4651649|33373|1980444|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|4670413|62725|634741|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|4941834|77027|2885091|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|5438354|56074|2634754|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|5525809|5133|2305291|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|5525809|5133|2305291|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|5545390|114517|942530|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|5545390|114517|942530|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|5580432|14073|1295740|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|5580432|14073|1295740|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|5765353|72950|1312896|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|5771249|16672|3704493|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|5771249|16672|3704493|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|5953236|4278|1273863|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6035711|92606|1609919|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6035711|92606|1609919|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|6056295|89738|2242486|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6148335|47354|477648|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6148335|47354|477648|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6334325|53873|2970718|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6334325|53873|2970718|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6347733|6808|1251785|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|6347733|6808|1251785|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|6347733|6808|1251785|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6378006|23769|1046734|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|6378006|23769|1046734|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|6378006|23769|1046734|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6545671|74707|1032450|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6625782|50462|1594854|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6686709|14003|2017243|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|6686709|14003|2017243|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|6686709|14003|2017243|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6719934|35011|1009779|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6719934|35011|1009779|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|6863619|58992|1207656|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|6863619|58992|1207656|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|6909620|5878|1967369|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|6909620|5878|1967369|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|7019452|105186|1506857|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|7082061|54155|2049259|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|7082061|54155|2049259|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|7135592|6440|1025953|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|7135592|6440|1025953|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|7137357|20313|1013834|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|7492583|13166|2954299|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|7655769|85202|3375636|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|7655769|85202|3375636|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|7730962|18791|1563636|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|8056882|32633|1335395|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8134443|70752|2326040|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8134443|70752|2326040|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8171971|111500|2289251|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8171971|111500|2289251|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|8273315|21787|3005410|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|8273315|21787|3005410|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|8342830|54309|1048444|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|8401068|78986|2344642|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|8487901|114546|1579310|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8487901|114546|1579310|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8535531|113684|1570129|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8535531|113684|1570129|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8543483|8384|2230609|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8543483|8384|2230609|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|8586551|1364|1983060|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|8586551|1364|1983060|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8586551|1364|1983060|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|8643121|44234|3194730|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8700849|58439|1079088|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8700849|58439|1079088|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|8719111|29389|1328285|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|8814144|32120|3341441|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|8814144|32120|3341441|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8815367|26701|1031357|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8815367|26701|1031357|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8878997|73554|2161087|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8878997|73554|2161087|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|8946450|91068|2326046|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|8946450|91068|2326046|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|9101998|89754|2814958|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|9154838|1722|463366|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|9154838|1722|463366|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|9201798|34365|2819720|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|9201798|34365|2819720|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|9274893|73232|1043276|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|9330276|31024|666221|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|9413388|63061|1037278|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|9526353|58671|781889|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|9626669|43699|1713101|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|9626906|31253|394419|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|9626906|31253|394419|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|9693831|47962|2477217|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|10016201|2897|1526948|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|10075318|75031|957804|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|10226175|40521|1593888|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|10226175|40521|1593888|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|10227076|35258|1060614|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|10259569|10235|492287|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|10259569|10235|492287|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|10323119|37590|1541406|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|10323119|37590|1541406|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|10356083|75953|1593677|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|10491442|46090|1936123|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|10530903|1070|2533625|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|10530903|1070|2533625|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|10648513|61636|1592078|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|10648513|61636|1592078|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|10701448|13796|850837|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|10701448|13796|850837|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|10756589|11164|2049658|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|10863345|57354|2923280|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|11232951|47950|2203725|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|11232951|47950|2203725|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|11360276|12500|2334687|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|11360276|12500|2334687|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|11475523|114525|1782751|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|11475523|114525|1782751|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|11667916|114515|2091541|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|11667916|114515|2091541|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|11949569|64174|2493899|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|12063927|18442|1390014|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|12063927|18442|1390014|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12107049|17488|389732|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|12107049|17488|389732|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|12107049|17488|389732|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12126214|77307|2801633|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|12199837|16264|2332523|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|12199837|16264|2332523|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|12312009|82515|678960|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|12526861|92914|2793249|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12571039|55634|3020936|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|12571039|55634|3020936|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|12804770|62387|1659907|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12873071|74705|1821746|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|12873676|77298|1530267|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12908617|37346|955531|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|12908617|37346|955531|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|12927843|40334|320117|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|12927958|39763|1318882|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|12927958|39763|1318882|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|12953635|33326|2207928|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|12953635|33326|2207928|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|12953635|33326|2207928|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|13057200|102048|1052081|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13057200|102048|1052081|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|13170818|114547|1775322|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13170818|114547|1775322|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|13270564|48014|204905|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|13398431|74067|490515|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13398431|74067|490515|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|13455795|14149|1313335|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|13478448|9860|2335010|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|13478448|9860|2335010|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|13554414|33098|986603|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13554414|33098|986603|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|13639584|50274|2838436|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|13652606|7534|462785|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13652606|7534|462785|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|13811964|39567|2330840|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|13944216|3807|2625644|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|13944216|3807|2625644|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|13944216|3807|2625644|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|14002191|35638|1048529|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|14013551|9910|2833078|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|14077401|56077|2865735|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14077401|56077|2865735|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|14183651|75127|1287588|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|14206286|112936|1320097|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|14262401|41550|644473|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14262401|41550|644473|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|14335207|29276|1268735|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14335207|29276|1268735|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|14432331|4749|2826957|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|14432331|4749|2826957|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|14469421|32817|1577030|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14469421|32817|1577030|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|14540174|53746|2355170|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|14568950|36236|2722728|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|14615371|78913|2345775|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|14810050|99972|1982532|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14810050|99972|1982532|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|14853875|10707|1048555|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|14853875|10707|1048555|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|14907756|2894|2056320|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|14907756|2894|2056320|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|14946181|57327|2764812|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|14946181|57327|2764812|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|15168402|35009|1035377|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|15209441|41106|1769798|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|15209441|41106|1769798|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|15216391|43377|2991287|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|15237771|77610|396650|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|15295692|40132|2339772|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|15295692|40132|2339772|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|15367319|26595|1993701|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|15367319|26595|1993701|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|15469256|96323|2326487|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|15555011|78024|605938|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|15597003|102721|2048955|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|15668666|60375|2291844|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|15668666|60375|2291844|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|15944815|36485|2314724|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|15964358|87866|2349915|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|15964358|87866|2349915|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|16036347|24256|2306609|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|16036347|24256|2306609|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|16070495|96339|495285|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|16136512|77806|494884|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|16186059|23151|1823228|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|16186059|23151|1823228|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|16410087|27302|621038|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|16410087|27302|621038|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|16424918|53166|2373681|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|16424918|53166|2373681|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|16490484|64390|1257498|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|16511633|83344|2040595|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|16600095|43347|3066443|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|16600095|43347|3066443|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|16651832|56459|1100396|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|16711178|77313|2204642|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|16928003|92991|2334645|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|16976800|60071|1575501|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|16976800|60071|1575501|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|16996707|511|261458|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|16996707|511|261458|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|17040309|4785|1966880|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|17120411|60232|2820953|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|17120411|60232|2820953|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|17225863|63639|1029710|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|17324622|47186|154838|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|17346472|55051|2022760|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|17346472|55051|2022760|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|17346472|55051|2022760|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|17435951|40714|2073356|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|17435951|40714|2073356|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|17562429|76965|1512653|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|17583159|11091|471905|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|17610217|75131|1321895|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|17702628|81631|1085279|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|17753077|54012|3240198|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|18066586|24162|1321752|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18066586|24162|1321752|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|18120829|5772|960479|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|18120829|5772|960479|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|18121664|4880|2934159|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18121664|4880|2934159|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|18239146|37343|789930|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|18294558|4257|1023619|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18294558|4257|1023619|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|18309793|75877|2206566|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|18423361|114531|1589856|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18423361|114531|1589856|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|18424791|53111|688725|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|18506276|36081|489333|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|18506276|36081|489333|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18506276|36081|489333|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|18686394|86360|799470|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|18689590|64527|952271|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|18760004|72969|1993607|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|18823841|78195|2458640|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|18960844|46514|2425526|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|18960844|46514|2425526|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|18960844|46514|2425526|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|19024496|22161|1832160|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|19024496|22161|1832160|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|19061869|33045|630815|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|19135282|77423|1559639|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|19324406|29541|1082384|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|19740712|76281|1033858|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|19832886|50686|2833319|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20109209|31753|2604127|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|20111991|13894|2311634|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20111991|13894|2311634|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|20122354|59574|2021071|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|20122354|59574|2021071|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|20149967|34746|2371958|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20149967|34746|2371958|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|20155372|22552|2318722|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|20155372|22552|2318722|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20155372|22552|2318722|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20212185|33843|2731072|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20371305|33336|1561528|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|20384713|62077|1034078|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|20384713|62077|1034078|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|20429514|107991|800969|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|20471221|76655|2759251|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|20518781|74440|465351|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|20545496|9856|2939315|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20548904|72443|1750558|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|20560680|12878|2301674|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20560680|12878|2301674|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|20582729|19174|977179|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|20582729|19174|977179|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|20638905|17625|489617|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20638905|17625|489617|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20730299|3158|1983732|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20741492|33034|1954689|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20861175|23966|2353213|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|20883821|11540|2371081|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|20891593|42199|240769|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|20891593|42199|240769|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21094391|29664|1783652|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21094391|29664|1783652|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21164411|13543|399318|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21164411|13543|399318|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21210081|114513|2332073|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21210081|114513|2332073|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21268873|29264|607102|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21268873|29264|607102|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21605491|16274|1782350|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21605491|16274|1782350|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|21808821|22848|2095893|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|21808821|22848|2095893|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|21974101|10983|1971588|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|21974101|10983|1971588|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|22031479|17705|2056197|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|22031479|17705|2056197|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|22031479|17705|2056197|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|22488391|14731|2738538|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|22488391|14731|2738538|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|23776341|36553|143499|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|23776341|36553|143499|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|24097445|50275|2876912|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|24097445|50275|2876912|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|25764044|13761|655901|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|25764044|13761|655901|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|25768463|13389|578582|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|25780220|24393|2241919|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|25963053|36350|981571|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|25963053|36350|981571|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|25963053|36350|981571|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|25980154|18656|3205420|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|25980154|18656|3205420|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26003089|6020|3722241|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26004446|4522|1515334|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26006832|36548|184113|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26006832|36548|184113|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26065681|27231|1348665|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26156571|50336|1541997|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26156571|50336|1541997|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26158589|77853|1595140|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|26165752|92000|178324|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26165752|92000|178324|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26169371|74356|2750307|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26248220|55992|2089868|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26248293|75494|2234476|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26253100|35629|2241867|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26253100|35629|2241867|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26253185|2716|2728317|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26253185|2716|2728317|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26262691|113679|2202532|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26262691|113679|2202532|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26334801|9135|2014995|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26334801|9135|2014995|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26350804|78204|1622998|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|26359066|31707|1059624|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26359066|31707|1059624|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26426249|20904|2884830|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26426249|20904|2884830|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26428088|27420|3450071|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|26428088|27420|3450071|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26428088|27420|3450071|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26435202|2918|2347616|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26435202|2918|2347616|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26548112|53864|2978521|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26551949|20898|1100990|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26551974|10334|1046353|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26551974|10334|1046353|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26555921|81459|2865406|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26556480|59135|805984|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26557046|62473|669373|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26631064|15634|2308993|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26651351|32607|3684819|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26652146|92406|1348645|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|26652146|92406|1348645|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26875913|73160|365828|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26912223|90932|4682927|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26914128|76648|1324081|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|26914311|80295|2201465|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|26993004|22098|1306467|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|26993004|22098|1306467|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|26994136|78133|332750|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|27017977|12879|2273642|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|27017977|12879|2273642|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|27191606|13215|1428484|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|27344083|40523|2835594|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|27344083|40523|2835594|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|27351804|78558|2829690|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|27353217|8943|2452891|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|27353217|8943|2452891|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|27505741|77409|1575963|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|27593319|42872|1326877|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|27593319|42872|1326877|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|27620785|35926|789944|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|27620785|35926|789944|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|30229650|75306|857904|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|30229650|75306|857904|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|31551166|54014|3690700|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|31591206|55891|390633|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|31591206|55891|390633|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|31615831|51556|1085798|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|31615831|51556|1085798|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31615831|51556|1085798|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|31627869|39054|602531|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|31627869|39054|602531|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31627869|39054|602531|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|31655075|78127|2328549|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|31676583|78095|2400022|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|31676959|64447|3054165|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|31756153|33754|2814017|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31756153|33754|2814017|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|31767461|77377|4685444|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|31806272|37813|2292618|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31806272|37813|2292618|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|31855763|14454|1278298|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31855763|14454|1278298|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|31898336|34093|2348369|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31898336|34093|2348369|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|31978708|14917|846685|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|31978708|14917|846685|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|32024332|74775|1659059|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|32114254|77741|772977|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|32153284|77114|2234871|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|32376078|39533|1062284|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|32376078|39533|1062284|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|32443195|77055|982793|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|32462232|73114|2435187|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|32462232|73114|2435187|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|32502369|36314|2225238|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|32658035|46513|3962251|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|32658035|46513|3962251|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|33134820|27852|123800|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|33134820|27852|123800|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|36019343|55899|2693857|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|36126342|77428|2996614|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|36135801|77509|3014159|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|36360375|46338|2376769|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|36360375|46338|2376769|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|36377351|76844|1279243|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|36379529|77291|154836|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|36858468|51132|1982240|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|36858468|51132|1982240|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|36863567|78545|636715|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|37385835|22662|802902|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|37539103|76754|376303|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|37571126|75447|2846579|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|37571126|75447|2846579|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|37819483|78198|2376127|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|38883818|76393|661496|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41307811|77787|765035|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41431352|76529|8630364|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41533215|76596|243666|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41667633|77632|298899|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41762162|60604|2773327|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|41951426|62543|2041214|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|42151879|73399|2495618|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|42179521|71630|174335|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|42527661|74737|1656803|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|42811715|74148|1053155|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|42811715|74148|1053155|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|42886958|77636|241971|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45120951|77245|2209719|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45131405|78911|238533|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45147701|74756|2209905|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45157649|76687|2207252|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45172067|76399|830779|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45172687|78938|338234|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45271033|77262|484989|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|45330608|78951|2295672|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|100148347|63681|1238118|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|100149649|19596|2022106|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|100149649|19596|2022106|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|100199793|8801|2050754|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|100199793|8801|2050754|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|100310205|24917|2523193|||E21|Datos personales del Titular incorrectos
+5|105|ATR|201508|1|02|100310205|24917|2523193|||E34|Diferencias de datos en el alta del titular
+5|105|ATR|201508|1|02|100310333|39704|2523929|||E34|Diferencias de datos en el alta del titular
+5|14|ATR|201508|1|02|100343715|78050|336218|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|100363064|73895|1322292|||E21|Datos personales del Titular incorrectos
+5|14|ATR|201508|1|02|100404418|91165|1270349|||E21|Datos personales del Titular incorrectos
+5|64|ATR|201508|1|02|100406154|103638|2380701|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|100406154|103638|2380701|||E34|Diferencias de datos en el alta del titular
+5|64|ATR|201508|1|02|100488481|10621|1376578|||E90|Certificado con Baja o no se encuentra Registrado en la SPVS
+5|105|ATR|201508|1|02|100488481|10621|1376578|||E34|Diferencias de datos en el alta del titular

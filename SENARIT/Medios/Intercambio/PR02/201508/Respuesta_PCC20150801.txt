@@ -1,0 +1,2 @@
+16436|9|El campo: monto_trans, no cumple con el formato
+16437|9|El campo: monto_trans, no cumple con el formato

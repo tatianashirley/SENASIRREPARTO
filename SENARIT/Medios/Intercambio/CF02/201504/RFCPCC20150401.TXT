@@ -1,0 +1,2 @@
+7|201504|3|CF|201504|1|02|100007511|92433|495198|20150401|100|E3|Fechas y periodos inconsistentes
+7|201504|44|CF|201504|1|02|100007511|92433|495198|20150401|150|E70|Solicitud de pago indebido. Pago efectuado en un periodo anterior o el periodo no corresponde

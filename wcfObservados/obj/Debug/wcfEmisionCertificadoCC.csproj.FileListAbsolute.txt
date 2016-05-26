@@ -1,0 +1,10 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfEmisionCertificadoCC\bin\wcfEmisionCertificadoCC.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfEmisionCertificadoCC\bin\wcfEmisionCertificadoCC.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\bin\wcfEmisionCertificadoCC.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\bin\wcfEmisionCertificadoCC.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfEmisionCertificadoCC.pdb

@@ -1,0 +1,19 @@
+<asp:GridView SkinID="GridView" runat="server" AutoGenerateColumns="False" 
+    CellPadding="3" 
+    Font-Size="X-Small" 
+    Font-Names="Arial"
+    
+
+    style="text-align: left" 
+    AllowSorting="True" 
+    GridLines="None"
+    
+    Background = "#dfecff"
+    Color = "Blue"
+    Border = "1px"
+    
+/>
+	
+    
+    
+    

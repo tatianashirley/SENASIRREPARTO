@@ -1,0 +1,5 @@
+3464|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <0002301248LP.> en la columna Identificador. El tipo esperado es Int64.
+4491|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <0001535780SC.> en la columna Identificador. El tipo esperado es Int64.
+9105|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <00009/07/0947> en la columna Identificador. El tipo esperado es Int64.
+14811|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <0000160091LP.> en la columna Identificador. El tipo esperado es Int64.
+16223|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <0000499488LP.> en la columna Identificador. El tipo esperado es Int64.

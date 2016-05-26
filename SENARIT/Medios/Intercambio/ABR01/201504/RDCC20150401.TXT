@@ -1,0 +1,37 @@
+29|ABR|201504|1|01|8879485|112487|12|||E1|Registros duplicados
+29|ABR|201504|1|01|8879485|112487|2544857|||E1|Registros duplicados
+29|ABR|201504|1|01|11417821|8394|4326444|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11417821|8394|5968565|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11417821|8394|9102082|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11649896|11032|2089634|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11649896|11032|9943323|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11649896|11032|11084928|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|11649896|11032|11086235|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|12952643|49695|904606|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|12952643|49695|6550079|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|13382159|64524|966725|||E1|Registros duplicados
+29|ABR|201504|1|01|13382159|64524|20130922|||E1|Registros duplicados
+29|ABR|201504|1|01|16347985|7331|6757201|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|16844919|70843|862654|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|21810424|47285|2550716|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|22103478|73437|2234088|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|26967871|40306|3569319|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|27665537|71078|2948206|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|27665537|71078|9675885|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|33066255|75716|2129987|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|33407010|71807|8502014|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|33407010|71807|8589417|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|33407010|71807|10462386|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|33769473|75210|6073129|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|35285141|74003|630102|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|35415228|51798|9309282|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|35415228|51798|13588439|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40447534|73797|4396245|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40450971|64185|8439096|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40575718|71711|2463694|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40585131|74104|6778065|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40695359|73992|2003192|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|40871514|73154|1045611|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|43188667|73033|2017634|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|43279181|75322|4289202|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+29|ABR|201504|1|01|100464816|73945|672878|||E47|Beneficiarios sin registro del titular o identificador inconsistente

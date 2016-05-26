@@ -1,0 +1,108 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+using Microsoft.Reporting.WebForms;
+using System.Data;
+using System.IO;
+using wcfWorkFlowN.Logica;
+
+public partial class Reportes_wfrmRptFormulario430 : System.Web.UI.Page
+{
+    clsComprobanteTrasladoDocumento ObjCbteTrsldoDoc = new clsComprobanteTrasladoDocumento();
+    clsComprobanteTrasladoDocumentoDet ObjCbteTrsldoDocDet = new clsComprobanteTrasladoDocumentoDet();
+
+    int IdConexion; int IdUsuario; string CuentaUsuario; int IdRol;
+    long iIdComprobante;
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!Page.IsPostBack)
+        {
+            if (Session["IdConexion"] == null)
+            {
+                //string LoginPage = System.Configuration.ConfigurationManager.AppSettings("LoginPageURL");
+                Response.Write("<script>window.open('LoginLDAP.aspx','_top');</script>");
+                return;
+            }
+            else
+            {
+                IdConexion = (int)Session["IdConexion"];
+                //IdConexion = 4039;
+                //IdConexion = 5638;
+            }
+
+            iIdComprobante=Convert.ToInt64(Session["iIdComprobante"]);
+            //iIdComprobante = 40;
+
+            DataTable dtEncabezado01 = new DataTable();
+            ObjCbteTrsldoDoc.iIdConexion = IdConexion;
+            ObjCbteTrsldoDoc.iIdComprobante = iIdComprobante;
+            if (ObjCbteTrsldoDoc.ObtieneFila())
+            {
+                dtEncabezado01 = ObjCbteTrsldoDoc.DSet.Tables[0];
+            }
+            else
+            {
+                //Error
+                string DetalleError = ObjCbteTrsldoDoc.sMensajeError;
+                string Error = "Error al realizar la operación";
+                //Master.MensajeError(Error, DetalleError);
+            }
+
+            DataTable dtDetalle01 = new DataTable();
+            ObjCbteTrsldoDocDet.iIdConexion = IdConexion;
+            ObjCbteTrsldoDocDet.iIdComprobante = iIdComprobante;
+            if (ObjCbteTrsldoDocDet.ObtieneDetalleComprobante())
+            {
+                dtDetalle01 = ObjCbteTrsldoDocDet.DSet.Tables[0];
+            }
+            else
+            {
+                //Error
+                string DetalleError = ObjCbteTrsldoDocDet.sMensajeError;
+                string Error = "Error al realizar la operación";
+                //Master.MensajeError(Error, DetalleError);
+            }
+
+            //dtsRepFormulario430TableAdapters.PR_rptF430_Encabezado01TableAdapter taRPTf340Encabezado01 = new dtsRepFormulario430TableAdapters.PR_rptF430_Encabezado01TableAdapter();
+            //DataTable dtEncabezado02 = taRPTf340Encabezado01.GetData(40);
+
+            //dtsRepFormulario430TableAdapters.PR_rptF430_Detalle01TableAdapter taRPTf340Detalle01 = new dtsRepFormulario430TableAdapters.PR_rptF430_Detalle01TableAdapter();
+            //DataTable dtDetalle02 = taRPTf340Detalle01.GetData(40);
+
+            //ReportViewer1.Visible=true;
+            //ReportViewer1.Reset();
+            //ReportViewer1.ProcessingMode = ProcessingMode.Local;
+            //string exeFolder = Path.GetDirectoryName(Application.StartupPath);
+            //string reportPath = Path.Combine(exeFolder, @"WorkFlow\rptFormulario430.rdlc");
+
+            ReportViewer1.LocalReport.ReportPath = @"Reportes/rptFormulario430.rdlc";
+            ReportViewer1.LocalReport.EnableExternalImages = true;
+
+            ReportParameter[] param = new ReportParameter[1];
+            param[0] = new ReportParameter("usuario", Session["CuentaUsuario"].ToString());
+            //param[1] = new ReportParameter("s_cOperacion", s_iIdConexion);
+            //param[2] = new ReportParameter("s_iSesionTrabajo", s_iIdConexion);
+            //param[3] = new ReportParameter("s_sSSN", s_iIdConexion);
+            //param[4] = new ReportParameter("o_sMensajeError", s_iIdConexion);
+            //param[5] = new ReportParameter("i_iIdComprobante", s_iIdConexion);
+
+            ReportViewer1.LocalReport.SetParameters(param);
+            ReportViewer1.LocalReport.DataSources.Clear();
+            ReportDataSource datasource1 = new ReportDataSource("Encabezado01", dtEncabezado01);
+            ReportViewer1.LocalReport.DataSources.Add(datasource1);
+            ReportDataSource datasource2 = new ReportDataSource("Detalle01", dtDetalle01);
+            ReportViewer1.LocalReport.DataSources.Add(datasource2);
+
+            ReportViewer1.LocalReport.Refresh();
+        }
+    }
+    protected void btnVolver_Click(object sender, EventArgs e)
+    {
+        Response.Redirect(@"~/Workflow/wfrmGeneracionComprobantes.aspx");
+    }
+}

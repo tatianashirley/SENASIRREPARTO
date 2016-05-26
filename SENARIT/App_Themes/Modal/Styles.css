@@ -1,0 +1,379 @@
+﻿body 
+{
+
+}
+/*body*/
+.dw2014
+{
+   background: url(\Imagenes\16mr.png);
+}
+
+.TextIndicator_TextBox1 
+{ 
+     background-color:Gray; 
+     color:White; 
+     font-family:Arial; 
+     font-size:x-small; 
+     font-style:italic; 
+     padding: 2px 3px 2px 3px; 
+} 
+
+/*** botones ***/
+.boton50
+{
+    height: 20px;
+    width: 50px;
+    font-size: xx-small; 
+    font-family: Arial;
+    text-align: center; 
+    color: midnightblue;
+}
+.boton50:hover 
+{
+    background-color: #4f81bd;
+    color:whitesmoke;
+}
+.boton75
+{
+    width: 75px;
+    font-size: xx-small;    font-family: Arial;
+    text-align: center;
+    color: midnightblue;
+}
+.boton100
+{
+    height: 24px;
+    width: 110px;
+    font-size: x-small;    font-family: Arial;
+    text-align: center;
+    color: midnightblue;
+}
+.boton150
+{
+    height: 24px;
+    
+    width: 120px;
+    font-size: small;    font-family: Arial;
+    text-align: center;
+    color: midnightblue;
+}
+.boton150:hover 
+{
+    background-color: #4f81bd;
+    color:whitesmoke;
+}
+
+.cssHeader
+{
+	background-color : #dfecff;
+	background-image : url(images/Menu4.png);
+    color: WindowText;
+    font-size: 8pt;     font-family: Arial;    font-weight: normal;
+    text-align: center;
+}
+
+/***collapse panel***/
+.collapsePanel
+{
+    height: 0px;
+}
+
+.collapsePanelHeader
+{
+    height: 18px;
+    color: #2080c0;
+    font-size: 8pt; 
+    background-color: Silver;
+    margin-bottom: 1px;
+}
+
+.etiqueta8Red
+{
+    color: Red;
+    font-size: xx-small;    font-family: Arial;
+    text-align: right;
+}
+.etiqueta8Blue
+{
+    color: MidnightBlue;
+    font-size: xx-small;     font-family: Arial;
+    text-align: right;
+}
+.etiqueta10
+{
+    color: MidnightBlue;
+    font-size: small;       font-family: Arial;
+    text-align: right;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.etiqueta20
+{
+    color: MidnightBlue; 
+    font-size:larger;    font-family: Arial;
+    text-align: right;
+}
+.link
+{
+    color: whitesmoke;
+    font-size: small;      font-family: Arial;
+    text-align: center;     
+}
+.link:hover
+{
+    /*olor: gold;*/
+    color: #03bafb;
+}
+
+
+.text_obs
+{   
+    color:  Red;
+    font-size: small;       font-family: Arial; 
+}
+.texto8
+{
+    color: MidnightBlue;
+    font-size: x-small;      font-family: Arial;
+    text-align: left;
+}
+
+.texto10
+{
+    color: MidnightBlue;
+    font-size: small;      font-family: Arial;
+    text-align: left; 
+}
+
+.texto10_Upper
+{
+    color: MidnightBlue;
+    font-size: small;      font-family: Arial;
+    text-align: left; text-transform: uppercase;
+}
+
+.texto12
+{
+    color: MidnightBlue;
+    font-size: medium;      font-family: Arial;
+    text-align: left;       font-weight: bold;
+}
+.textoradiobutton
+{
+    color: MidnightBlue;
+    font-size: x-small;      font-family: Arial;
+    text-align: right;
+}
+
+
+.modalBackground
+{
+	position:  relative;
+    z-index: -1;
+    background-color: Black;
+	filter: alpha(opacity=50); 
+	opacity: 0.50;
+}
+
+.modalPopup
+{
+
+    background-color:White;
+    color: MidnightBlue;
+}
+.modalPopup div
+{
+
+    margin: 5px;
+    text-align: center;
+}
+
+.paginadiv
+{
+    background: #ffffdd;
+}
+ 
+.fondopopup
+{
+    /*background-color: lightskyblue;
+    position: relative;
+    z-index: -1;
+    border: thin solid lightsteelblue;
+    background-color: #dff1fc;
+    
+    width: -20%;*/
+    background-color: lightskyblue;
+    /*position: relative;
+    z-index: -1;*/
+    border: thin solid lightsteelblue;
+    background-color: #dff1fc;
+    
+    width: -20%;
+}
+
+.panelprincipal
+{
+    background-color: lightskyblue;
+    /*position: relative;
+    z-index: -1;*/
+    border: thin solid lightsteelblue;
+    background-color: #dff1fc;
+    
+    width: -20%;
+}
+.panelprincipal2
+{
+    /*background-color: rgb(0,0,255); opacity: 0.5;*/
+    /*background-color: lightskyblue;*/    
+    border: thin solid lightsteelblue;
+    background-color: #dff1fc;
+    
+    width: -20%;
+}
+.newencabezado
+{
+    /*background-color: lightskyblue;*/
+    position:  inherit; 
+    z-index:100  ; 
+    /*border: thin solid lightsteelblue;
+    background-color: #dff1fc;*/
+    elevation: higher;
+    /*width: -20%;*/
+}
+
+/* - dw - */
+.panel123
+{
+    /*background-color: #F6D8CE;*/
+    
+    background-color: #F6D8CE; /*#CCBBAA;*/
+    
+    border-color: lightsteelblue;
+    border-style: solid;
+    border-width: thin;
+    
+    elevation: higher;
+ }
+ 
+ .panelsecundario
+{
+    background-color: #004d75; 
+    elevation: above;
+    color: #d4eeff; 
+    font-size: xx-small;
+ }
+ 
+.water
+{
+     font-size: x-small; 
+     color: Gray   
+}
+
+
+/* Autocomplet extender*/
+.completionList {
+font-family: Arial;
+font-size: small;
+text-align: left;
+border: solid 1px #444444;
+margin: 3px;
+padding: 1px;
+background-color: #FFFFCC;
+}
+
+.listItem {
+color: #000000;
+}
+
+.itemHighlighted {
+background-color: #B8E8FE;
+}
+.panelceleste
+{
+    background-color: #F0F8FF;
+    border-color: #6699FF;
+    border-style: solid;
+    border-width: thin;
+    elevation: higher;
+    line-height: inherit;
+}
+
+
+/*estilo para los gridviewer*/
+
+.mGrid { width:auto; background-color: #fff; margin: 5px 0 10px 0; border: solid 1px #525252; border-collapse:collapse; }
+    .mGrid td { padding: 2px; border: solid 1px #c1c1c1; color: #717171; font-size: 12px;}
+    .mGrid th { padding: 4px 2px; color: #fff; background: #778da6 url(grd_head_senarit.png  )  repeat-x ; border-left: solid 1px #525252; font-size: 12px; height: 35px }
+/*.mGrid .alt { background: #ffffff url(grd_alt_senarit.png) repeat-x top; }*/
+.mGrid .alt { background: #c1c1c1  }
+.mGrid .pgr {background: #7fa5ba url(grd_pgr_senarit.png) repeat-x top; }
+    .mGrid .pgr table { margin: 5px 0; }
+    .mGrid .pgr td { border-width: 0; padding: 0 6px; border-left: solid 1px #666; font-weight: bold; color: #fff; line-height: 12px; }   
+    .mGrid .pgr a { color: #666; text-decoration: none; }
+    .mGrid .pgr a:hover { color: #000; text-decoration: none; }
+    .mGrid tr:hover {background: #E2F3FE;}
+
+/*estilo para tablas*/
+.mTable { width: 100%; background-color: #fff; margin: 5px 0 10px 0; border: solid 1px #525252; border-collapse:collapse; }
+    .mTable td { padding: 2px; border: solid 1px #c1c1c1; color: #010000; font-size: 12px;}
+    .mTable th { padding: 4px 2px; color: #fff; background: #778da6 url(grd_head_senarit.png  )  repeat-x ; border-left: solid 1px #525252; font-size: 12px; height: 20px }
+.mTable .alt { background: #c6cfd9 url(grd_alt_senarit.png) repeat-x top; }
+.mTable .pgr {background: #7fa5ba url(grd_pgr_senarit.png) repeat-x top; }
+    .mTable .pgr table { margin: 5px 0; }
+    .mTable .pgr td { border-width: 0; padding: 0 6px; border-left: solid 1px #666; font-weight: bold; color: #fff; line-height: 12px; }   
+    .mTable .pgr a { color: #666; text-decoration: none; }
+    .mTable .pgr a:hover { color: #000; text-decoration: none; }
+
+
+    .pnlGral {
+    border-style: none;
+    border-color: #DFEFFF;
+    border-radius: 2%;
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+    font-size: small;
+    }
+
+    .pnlPest {
+    background-color: #F3FAFE;
+    border-style: none;
+    border-color: #DFEFFF;
+    border-radius: 2%;
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+    font-size: 85%;
+    }
+
+    .pnlBody{
+	background-position:center bottom;
+	background-repeat:repeat-x;
+	font-family:Tahoma,Verdana,Segoe,sans-serif;
+	font-size: 85%;
+	padding-bottom:20px;
+    }
+
+    .box{   
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+	font-size:95%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+
+    .box:disabled{
+        background-color: whitesmoke;
+    color: #004d75;
+    margin-left: 0px;
+    }
+
+    .btnPrin {    
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+    font-size:95%;    
+    background-color:#6d8ea8;
+    color: white;
+    height: 21px;
+    }
+
+    .MarcaAgua  
+{  
+background-color: #fcf6df;  
+color: Gray;
+font-style:italic;
+}

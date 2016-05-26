@@ -1,0 +1,2 @@
+5|PR|201406|1|02|2872|5603|4633174|20140601|300|E98|Transaccion de descuento sin transaccion positiva
+5|PR|201406|1|02|2872|5603|4633174|20140601|301|E98|Transaccion de descuento sin transaccion positiva

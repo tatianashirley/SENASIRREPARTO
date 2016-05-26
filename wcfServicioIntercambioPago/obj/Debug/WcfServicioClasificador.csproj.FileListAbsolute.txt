@@ -1,0 +1,18 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Proyecto\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\WcfServicioClasificador.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\WcfServicioClasificador.pdb
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.csprojResolveAssemblyReference.cache
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.dll
+C:\Users\CAlvarado\Desktop\Proyecto - copia 04062014\WcfServicioClasificador\obj\Debug\WcfServicioClasificador.pdb

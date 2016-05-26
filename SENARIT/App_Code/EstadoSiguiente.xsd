@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EstadoSiguiente" targetNamespace="http://tempuri.org/EstadoSiguiente.xsd" xmlns:mstns="http://tempuri.org/EstadoSiguiente.xsd" xmlns="http://tempuri.org/EstadoSiguiente.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="cadena" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="cadena (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.cadena.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="FN_EstadoSiguienteTableAdapter" Name="FN_EstadoSiguiente">
+            <MainSource>
+              <DbSource ConnectionRef="cadena (Web.config)" DbObjectName="SENARIT.Clasificador.FN_EstadoSiguiente" DbObjectType="Function" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT IdTipoTramite, TipoTramite, IdProceso, Proceso, IdSubProceso, SubProceso, IdObjeto, Objeto, IdEstadoInicial, EstadoInicial, IdEstadoSiguiente, EstadoSiguiente, EstadoFinal, RegistroActivo FROM Clasificador.FN_EstadoSiguiente()</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="IdTipoTramite" DataSetColumn="IdTipoTramite" />
+              <Mapping SourceColumn="TipoTramite" DataSetColumn="TipoTramite" />
+              <Mapping SourceColumn="IdProceso" DataSetColumn="IdProceso" />
+              <Mapping SourceColumn="Proceso" DataSetColumn="Proceso" />
+              <Mapping SourceColumn="IdSubProceso" DataSetColumn="IdSubProceso" />
+              <Mapping SourceColumn="SubProceso" DataSetColumn="SubProceso" />
+              <Mapping SourceColumn="IdObjeto" DataSetColumn="IdObjeto" />
+              <Mapping SourceColumn="Objeto" DataSetColumn="Objeto" />
+              <Mapping SourceColumn="IdEstadoInicial" DataSetColumn="IdEstadoInicial" />
+              <Mapping SourceColumn="EstadoInicial" DataSetColumn="EstadoInicial" />
+              <Mapping SourceColumn="IdEstadoSiguiente" DataSetColumn="IdEstadoSiguiente" />
+              <Mapping SourceColumn="EstadoSiguiente" DataSetColumn="EstadoSiguiente" />
+              <Mapping SourceColumn="EstadoFinal" DataSetColumn="EstadoFinal" />
+              <Mapping SourceColumn="RegistroActivo" DataSetColumn="RegistroActivo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EstadoSiguiente" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="False">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FN_EstadoSiguiente">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdTipoTramite" type="xs:int" minOccurs="0" />
+              <xs:element name="TipoTramite" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdProceso" type="xs:int" minOccurs="0" />
+              <xs:element name="Proceso" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdSubProceso" type="xs:int" minOccurs="0" />
+              <xs:element name="SubProceso" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdObjeto" type="xs:int" minOccurs="0" />
+              <xs:element name="Objeto" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdEstadoInicial" type="xs:int" minOccurs="0" />
+              <xs:element name="EstadoInicial" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdEstadoSiguiente" type="xs:int" minOccurs="0" />
+              <xs:element name="EstadoSiguiente" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EstadoFinal" type="xs:int" minOccurs="0" />
+              <xs:element name="RegistroActivo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

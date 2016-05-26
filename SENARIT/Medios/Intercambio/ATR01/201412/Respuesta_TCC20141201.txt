@@ -1,0 +1,2 @@
+2|0|La cadena de entrada no tiene el formato correcto.No se puede almacenar <5005230248L> en la columna NumeroIdentificacion. El tipo esperado es Int64.
+0|1|cod_fuente no es el correspondiente

@@ -1,0 +1,10 @@
+D:\VS2015\SENARIT\wcfReprocesos\bin\wcfReprocesos.dll
+D:\VS2015\SENARIT\wcfReprocesos\bin\wcfReprocesos.pdb
+D:\VS2015\SENARIT\wcfReprocesos\bin\wcfSeguridad.dll
+D:\VS2015\SENARIT\wcfReprocesos\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VS2015\SENARIT\wcfReprocesos\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VS2015\SENARIT\wcfReprocesos\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\VS2015\SENARIT\wcfReprocesos\bin\wcfSeguridad.pdb
+D:\VS2015\SENARIT\wcfReprocesos\obj\Debug\wcfReprocesos.csprojResolveAssemblyReference.cache
+D:\VS2015\SENARIT\wcfReprocesos\obj\Debug\wcfReprocesos.dll
+D:\VS2015\SENARIT\wcfReprocesos\obj\Debug\wcfReprocesos.pdb

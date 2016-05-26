@@ -1,0 +1,49 @@
+C:\Users\CAlvarado\Desktop\wcfServicioIntercambioPago\bin\wcfServicioIntercambio.dll
+C:\Users\CAlvarado\Desktop\wcfServicioIntercambioPago\bin\wcfServicioIntercambio.pdb
+C:\Users\CAlvarado\Desktop\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambio.dll
+C:\Users\CAlvarado\Desktop\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambio.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\ProyectoSENARIT_0.08\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\ProyectoSENARIT_0.08\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\ProyectoSENARIT_0.08\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\ProyectoSENARIT_0.08\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\ProyectoSENARIT_0.08\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.csprojResolveAssemblyReference.cache
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\bin\wcfSeguridad.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.dll
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\bin\wcfSeguridad.pdb
+C:\Users\CAlvarado\Documents\Visual Studio 2012\Projects\PROYECTO_INTEGRADO\SENARIT\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.csprojResolveAssemblyReference.cache
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\wcfSeguridad.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\bin\wcfSeguridad.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.csprojResolveAssemblyReference.cache
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\wcfSeguridad.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\bin\wcfSeguridad.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.pdb
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\wcfServicioIntercambioPago.pdb
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\wcfSeguridad.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\bin\wcfSeguridad.pdb
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.dll
+D:\Mayo\SENASIR_18052016\wcfServicioIntercambioPago\obj\Debug\wcfServicioIntercambioPago.pdb

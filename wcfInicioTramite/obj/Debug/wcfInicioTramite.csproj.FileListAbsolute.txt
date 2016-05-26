@@ -1,0 +1,96 @@
+D:\metas de gestion\SENARIT28012015\SENARIT2\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\metas de gestion\SENARIT28012015\SENARIT2\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\metas de gestion\SENARIT28012015\SENARIT2\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\metas de gestion\SENARIT28012015\SENARIT2\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\metas de gestion\SENARIT28012015\SENARIT2\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\Inicio_Tramite_Amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\Inicio_Tramite_Amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\Inicio_Tramite_Amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\Inicio_Tramite_Amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\Inicio_Tramite_Amilkar\MODULO DE INICIO DE TRAMITE CC(APOYO A LA META)\FUENTE INICIO DE TRAMITE CC META\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\senasir\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\senasir\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\senasir\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\senasir\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\senasir\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+C:\Users\cgarcia\Desktop\INICIO TRAMITE\3_vs\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENARIT20102015\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\SENASIR2015\back_apli\SENASIR_WFARTICULADOR\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENARIT\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\senasir\desarrollo\SENARIT\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\RegistroTramite\REGISTRO TRAMITE\SENASIR\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\senasir\desarrollo\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\bin\wcfInicioTramite.dll
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\bin\wcfInicioTramite.pdb
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\bin\wcfSeguridad.dll
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\bin\wcfSeguridad.pdb
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\obj\Debug\wcfInicioTramite.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\obj\Debug\wcfInicioTramite.dll
+D:\Mayo\SENASIR_18052016\wcfInicioTramite\obj\Debug\wcfInicioTramite.pdb

@@ -1,0 +1,33 @@
+8|PF|201408|1|01|100006140|38140|680614|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100006140|38140|7384302|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100008574|92738|2853101|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100008574|92738|8069228|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100008574|92738|8929142|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100008574|92738|8930772|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100013612|38078|3846059|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100014008|62024|2279664|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100023824|48523|4299367|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100023824|48523|8350754|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100023824|48523|9125468|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100024208|35125|7328976|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100024804|34882|2757015|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100026564|65722|777413|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100029243|68383|2334980|20140701|100|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140701|150|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140701|301|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140701|303|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|100|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|150|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|300|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|301|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|302|E1|Registros duplicados
+8|PF|201408|1|01|100029243|68383|2334980|20140801|303|E1|Registros duplicados
+8|PF|201408|1|01|100032667|62005|2229371|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100043471|62028|450984|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100046757|38857|2121549|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100049497|89620|494472|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100055473|66429|2337679|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100060298|91445|2384093|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100069393|66430|2319078|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100076701|36303|1971746|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+8|PF|201408|1|01|100076701|36303|9770958|20140801|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)

@@ -1,0 +1,50 @@
+C:\ProyectosDW\Geo\wcfGeo\bin\wcfGeo.dll
+C:\ProyectosDW\Geo\wcfGeo\bin\wcfGeo.pdb
+C:\ProyectosDW\Geo\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+C:\ProyectosDW\Geo\wcfGeo\obj\Debug\wcfGeo.dll
+C:\ProyectosDW\Geo\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\ServicioGeografia\wcfGeo\bin\wcfGeo.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\ServicioGeografia\wcfGeo\bin\wcfGeo.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\ServicioGeografia\wcfGeo\obj\Debug\wcfGeo.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\ServicioGeografia\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\ProyectosSenasir\Karina\ServicioGeografia\wcfGeo\bin\wcfGeo.dll
+C:\ProyectosSenasir\Karina\ServicioGeografia\wcfGeo\bin\wcfGeo.pdb
+C:\ProyectosSenasir\Karina\ServicioGeografia\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+C:\ProyectosSenasir\Karina\ServicioGeografia\wcfGeo\obj\Debug\wcfGeo.dll
+C:\ProyectosSenasir\Karina\ServicioGeografia\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\ProyectosSenasir\ProyectoSeguridad_0.08\wcfGeo\obj\Debug\wcfGeo.dll
+C:\ProyectosSenasir\ProyectoSeguridad_0.08\wcfGeo\bin\wcfGeo.dll
+C:\ProyectosSenasir\ProyectoSeguridad_0.08\wcfGeo\bin\wcfGeo.pdb
+C:\ProyectosSenasir\ProyectoSeguridad_0.08\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\Proyectos\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll
+C:\Proyectos\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.pdb
+C:\Proyectos\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+C:\Proyectos\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.dll
+C:\Proyectos\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\ProyectosSenasir\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll
+C:\ProyectosSenasir\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.pdb
+C:\ProyectosSenasir\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.dll
+C:\ProyectosSenasir\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.pdb
+C:\ProyectosSenasir\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+E:\SENASIR\APLI\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll
+E:\SENASIR\APLI\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.pdb
+E:\SENASIR\APLI\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+E:\SENASIR\APLI\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.dll
+E:\SENASIR\APLI\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.pdb
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.pdb
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll.CodeAnalysisLog.xml
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\bin\wcfGeo.dll.lastcodeanalysissucceeded
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.dll
+D:\SENARIT_OFILOCAL\APLI\SIS_SENASIR\ProyectoSENARIT_0.08\wcfGeo\obj\Debug\wcfGeo.pdb
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\wcfGeo\bin\wcfGeo.dll
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\wcfGeo\bin\wcfGeo.pdb
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\wcfGeo\obj\Debug\wcfGeo.dll
+D:\SENASIR_REPO_LOCAL\Desarrollo\WEB\trunk\SENARIT\wcfGeo\obj\Debug\wcfGeo.pdb
+D:\VS2015\SENARIT\wcfGeo\bin\wcfGeo.dll
+D:\VS2015\SENARIT\wcfGeo\bin\wcfGeo.pdb
+D:\VS2015\SENARIT\wcfGeo\obj\Debug\wcfGeo.csprojResolveAssemblyReference.cache
+D:\VS2015\SENARIT\wcfGeo\obj\Debug\wcfGeo.dll
+D:\VS2015\SENARIT\wcfGeo\obj\Debug\wcfGeo.pdb

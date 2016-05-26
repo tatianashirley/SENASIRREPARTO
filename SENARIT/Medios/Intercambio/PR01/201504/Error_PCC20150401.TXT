@@ -1,0 +1,7 @@
+29|39|PR|201504|1|01|6878787|73908|234329|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|20668119|56996|2632787|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|20668119|56996|4822870|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|20668119|56996|6830111|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|30002680|39083|774208|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|33767737|28266|2117832|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)
+29|39|PR|201504|1|01|40336271|62920|309902|20150401|100|E65|Transacciones sin registro de TITULAR o BENEFICIARIO (campos: nua, no_certi, identificador)

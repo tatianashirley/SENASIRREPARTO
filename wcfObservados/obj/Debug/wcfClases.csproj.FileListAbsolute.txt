@@ -1,0 +1,5 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfClases\bin\wcfClases.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfClases\bin\wcfClases.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfClases\obj\Debug\wcfClases.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfClases\obj\Debug\wcfClases.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\EmisionCertificadoCC\wcfClases\obj\Debug\wcfClases.csprojResolveAssemblyReference.cache

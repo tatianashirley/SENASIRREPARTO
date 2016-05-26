@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Basic Form - jQuery EasyUI Demo</title>
+	<link rel="stylesheet" type="text/css" href="../../themes/default/easyui.css">
+	<link rel="stylesheet" type="text/css" href="../../themes/icon.css">
+	<link rel="stylesheet" type="text/css" href="../demo.css">
+	<script type="text/javascript" src="../../jquery.min.js"></script>
+	<script type="text/javascript" src="../../jquery.easyui.min.js"></script>
+
+	<script>
+	
+	//$(document).ready(function(){
+		//$('body').toLowerCase();
+	//});
+	
+	function clearForm(){
+		$('#ff').form('clear');
+	}
+	
+	</script>
+</head>
+<body>
+	<div class="easyui-panel" title="FORMULARIO DE BUSQUEDA" style="width:650px;">
+		<div style="padding:10px 20px 20px 20px" id="ff">
+	    	<table cellpadding="5">
+	    		<tr>
+	    			<td>Primer Apellido:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtPaternoBuscar" id="txtPaternoBuscar" onkeyup="this.value=this.value.toUpperCase()"></td>
+	    			<td>Segundo Apellido:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtMaternoBuscar" id="txtMaternoBuscar"></td>
+	    		</tr>
+	    		<tr>
+	    			<td>Primer Nombre:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtPrimerNormbreBuscar" id="txtPrimerNormbreBuscar"></td>
+	    			<td>Segundo Nombre:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtSegundoNombreBuscar" id="txtSegundoNombreBuscar"></td>
+	    		</tr>
+	    		<tr>
+	    			<td>Numero de Documento:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtNumDocBuscar" id="txtNumDocBuscar"></td>
+	    			<td>Matricula:</td>
+	    			<td><input class="easyui-textbox" type="text" name="txtMatriculaBuscar" id="txtMatriculaBuscar" runat="server"></td>
+	    		</tr>
+	    	</table>
+	    
+		    <div style="text-align:center;padding:5px">
+		    	<input type="submit" id="btnBuscar" value="BUSCAR" class="easyui-linkbutton" style="width:100px;height:30px;">
+		    	<input type="submit" id="btnLimpiar" value="LIMPIAR" class="easyui-linkbutton" style="width:100px;height:30px;" onclick="clearForm()">
+		    </div>
+	    </div>
+	</div>
+</body>
+</html>

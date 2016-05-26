@@ -1,0 +1,72 @@
+﻿/*Calendar Control CSS*/
+.cal_Theme1 .ajax__calendar_container   {
+background-color: #DEF1F4;
+border:solid 1px #77D5F7;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_header  {
+background-color: #ffffff;
+margin-bottom: 4px;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_title,
+.cal_Theme1 .ajax__calendar_next,
+.cal_Theme1 .ajax__calendar_prev    {
+color: #004080;
+padding-top: 3px;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_body    {
+background-color: #ffffff;
+border: solid 1px #77D5F7;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_dayname {
+text-align:center;
+font-weight:bold;
+margin-bottom: 4px;
+margin-top: 2px;
+color: #004080;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_day {
+color: #004080;
+text-align:center;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_day,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_month,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_year,
+.cal_Theme1 .ajax__calendar_active  {
+color: #004080;
+font-weight: bold;
+background-color: #DEF1F4;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_today   {
+font-weight:bold;
+position:relative;
+z-index:99999;
+}
+
+.cal_Theme1 .ajax__calendar_other,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_today,
+.cal_Theme1 .ajax__calendar_hover .ajax__calendar_title {
+color: #bbbbbb;
+position:relative;
+z-index:99999;
+}

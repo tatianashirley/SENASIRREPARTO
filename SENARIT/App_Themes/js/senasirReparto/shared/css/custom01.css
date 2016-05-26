@@ -1,0 +1,119 @@
+/*########################################## lock-dom-elements begin ##############*/
+.msg-validate > span {
+    float: right;
+    margin-top: 2px;
+    margin-right: 3px;
+    color: red;
+    opacity: 0.8;
+    font-size: small;
+}
+
+.msg-validate-textarea {
+    float: right;
+    font-size: 11px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: red;
+
+}
+
+.disable-dom-element {
+    z-index: 1000;
+    background-color: lightgrey;
+    opacity: 0.6;
+    pointer-events: none;
+}
+/*########################################## lock-dom-elements end ##############*/
+/*########################################## tree-grid-begin ##############*/
+.tree-grid {
+}
+
+.tree-grid .base {
+    max-height: 400px;
+    min-height: 400px
+}
+
+.tree-grid .tree-grid-pagination {
+    width: 100%;
+    background: #efefef;
+    border: 1px solid #ccc;
+    margin: 0px 0px;
+}
+/*########################################## tree-grid-end ##############*/
+/*########################################## custom-border-elements-ag-grid-begin ##############*/
+.custom-container1-ag-grid {
+    border: 1px solid #333333;
+    border-radius:5px;
+    padding: 20px 5px 30px 5px;
+}
+.custom-container2-ag-grid {
+    border: 1px solid #333333;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 0px;
+    border-radius: 0px;
+    border-bottom: none;
+}
+.custom-padding1{
+    padding: 1.2em 1.2em 1.2em 1.2em;
+}
+.custom-padding2{
+    padding: 1em 1em 1em 1em !important;
+}
+/*########################################## custom-border-elements-ag-grid-end ##############*/
+/*########################################## custom-fieldset-begin ##############*/
+.fieldset1 {
+    border: 1px solid #333333;
+    border-radius: 5px;
+    border-top: none;
+    padding: 0.5em;
+    margin: 1em 2px;
+}
+.fieldset1 > h1 {
+    /*font: 1em normal;*/
+    font-size: 13px;
+    font-weight: bold;
+    margin: -1em -0.5em 0;
+}
+.fieldset1 > h1 > span {
+    padding-left:5px;
+    padding-right:10px;
+    float: left;
+}
+.fieldset1 > h1:before {
+    border-top: 1px solid #333333;
+    content: ' ';
+    float: left;
+    /*margin: 0.5em 2px 0 -1px;*/
+    margin: 0.5em 2px -1px;
+    width: 0.75em;
+}
+.fieldset1 > h1:after {
+    border-top: 1px solid #333333;
+    content: ' ';
+    display: block;
+    height: 1.5em;
+    left: -2px;
+    margin: 0 1px 0 0;
+    overflow: hidden;
+    position: relative;
+    top: 0.5em;
+}
+/*########################################## custom-fieldset-end ##############*/
+/*########################################## custom-lock-icon-begin ##############*/
+.lock-element-icon * {
+    cursor:not-allowed;
+}
+.lock-element-icon  button,
+.lock-element-icon  input,
+.lock-element-icon  .selection-item {
+    pointer-events:none;
+}
+/*########################################## custom-lock-icon-end ##############*/
+/*########################################## custom-hide-show-dom-element begin ##############*/
+.hidden-dom-element {
+    /*display:none;*/
+    visibility:hidden;
+}
+/*########################################## custom-hide-show-dom-element end ##############*/
+

@@ -1,0 +1,101 @@
+2|25|PR|201508|2|02|2556753|101704|1031024|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|2961805|49314|2053149|20150301|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|2961805|49314|2053149|20150401|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|2961805|49314|2053149|20150501|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|2961805|49314|2053149|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|7054762|80680|469659|20090801|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|7054762|80680|469659|20090901|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|7054762|80680|469659|20091001|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|7646434|50235|1987811|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|7998351|59990|3232831|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|8262299|85153|922072|20080101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|9185926|43364|8148646|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|11330651|59854|6|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|11330651|59854|2358804|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|12537214|60541|1247496|20130901|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20131001|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20131101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20131201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140501|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20140601|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12537214|60541|1247496|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|12784734|63634|1009052|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|18476181|9370|1570507|20091101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19440510|734|2215648|20090801|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19517804|14976|2|20090301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19517804|14976|2|20090401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19517804|14976|381832|20090301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19517804|14976|381832|20090401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|19601803|111293|9718178|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|19873013|28342|2872457|20141101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|19873013|28342|12872189|20141101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|20663195|31972|2246846|20110601|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|22330252|72543|2021056|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|25955536|94588|2065570|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|26165752|92000|3885068|20140201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140501|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140601|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140701|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140801|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20140901|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20141001|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20141101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20141201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20150101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20150101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20150201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|3885068|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140501|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140601|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140701|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140801|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20140901|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20141001|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20141101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20141201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20150101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20150101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20150201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4562436|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140401|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140501|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140601|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140701|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140801|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20140901|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20141001|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20141101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20141201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20150101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20150101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20150201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|26165752|92000|4627156|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32084535|25854|466238|20090101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32084535|25854|466238|20090101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32084535|25854|466238|20090201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32084535|25854|466238|20090301|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32084535|25854|466238|20150801|701|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|32345513|36691|1331597|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|32345513|36691|8616553|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|32757736|4339|1420767|20150101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32757736|4339|1420767|20150101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32757736|4339|1420767|20150201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32757736|4339|10661606|20150101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32757736|4339|10661606|20150101|720|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|32757736|4339|10661606|20150201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|25|PR|201508|2|02|36666521|15797|1190051|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|37265741|27939|8602804|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|25|PR|201508|2|02|100215300|83882|1812329|20150801|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+2|69|PR|201508|2|02|100255191|177|391061|20070101|700|E95|Error la transaccion no cuenta con solicitud de Reposicion
+2|69|PR|201508|2|02|100255191|177|391061|20070201|700|E95|Error la transaccion no cuenta con solicitud de Reposicion

@@ -1,0 +1,76 @@
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\bin\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\bin\wcfObservados.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfEmisionCertificadoCC\obj\Debug\wcfObservados.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados2\wcfObservados\bin\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados2\wcfObservados\bin\wcfObservados.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados2\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados2\wcfObservados\obj\Debug\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados2\wcfObservados\obj\Debug\wcfObservados.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfObservados\bin\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfObservados\bin\wcfObservados.pdb
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfObservados\obj\Debug\wcfObservados.dll
+C:\Users\encastro\Documents\Visual Studio 2012\Projects\Observados\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENARITnocorre\wcfObservados\bin\wcfObservados.dll
+D:\SENARITnocorre\wcfObservados\bin\wcfObservados.pdb
+D:\SENARITnocorre\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\SENARITnocorre\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENARITnocorre\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\karina-meta\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\karina-meta\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\karina-meta\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\karina-meta\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\karina-meta\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\Trabajo 23-05-2015\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\Trabajo 23-05-2015\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\Trabajo 23-05-2015\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\Trabajo 23-05-2015\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENASIR\BACK_APLI\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\SENASIR\BACK_APLI\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\SENASIR\BACK_APLI\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\SENASIR\BACK_APLI\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENASIR\BACK_APLI\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\back_apli\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\back_apli\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\back_publicado\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\back_publicado\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\back_publicado\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\back_publicado\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\back_publicado\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENASIR2015\back_apli\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\SENASIR2015\back_apli\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\SENASIR2015\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\SENASIR2015\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENASIR2015\back_apli\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENASIR_WFARTICULADOR\SENARIT\wcfObservados\bin\wcfObservados.dll
+D:\SENASIR_WFARTICULADOR\SENARIT\wcfObservados\bin\wcfObservados.pdb
+D:\SENASIR_WFARTICULADOR\SENARIT\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENASIR_WFARTICULADOR\SENARIT\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfObservados\bin\wcfObservados.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfObservados\bin\wcfObservados.pdb
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENASIR\2016\back_apli\11042016\SENASIR\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfObservados\bin\wcfObservados.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfObservados\bin\wcfObservados.pdb
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfObservados\obj\Debug\wcfObservados.dll
+D:\SENASIR_2016\back_apli\SENASIR03032016\SENASIR\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfObservados\bin\wcfObservados.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfObservados\bin\wcfObservados.pdb
+D:\sistemas\SENASIR11052016\SENASIR\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\sistemas\SENASIR11052016\SENASIR\wcfObservados\obj\Debug\wcfObservados.dll
+D:\sistemas\SENASIR11052016\SENASIR\wcfObservados\obj\Debug\wcfObservados.pdb
+D:\Mayo\SENASIR_18052016\wcfObservados\bin\wcfObservados.dll
+D:\Mayo\SENASIR_18052016\wcfObservados\bin\wcfObservados.pdb
+D:\Mayo\SENASIR_18052016\wcfObservados\obj\Debug\wcfObservados.csprojResolveAssemblyReference.cache
+D:\Mayo\SENASIR_18052016\wcfObservados\obj\Debug\wcfObservados.dll
+D:\Mayo\SENASIR_18052016\wcfObservados\obj\Debug\wcfObservados.pdb

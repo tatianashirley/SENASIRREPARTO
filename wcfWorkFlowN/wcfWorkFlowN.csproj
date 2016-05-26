@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ABC252BC-6778-4FEB-A058-E51FC47B4424}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>wcfWorkFlowN</RootNamespace>
+    <AssemblyName>wcfWorkFlowN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Configuration.Design">
+      <HintPath>..\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\WcfServicioClasificador\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder">
+      <HintPath>..\WcfServicioClasificador\bin\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="wcfSeguridad">
+      <HintPath>..\wcfSeguridad\bin\wcfSeguridad.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Service1.svc" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\clsComprobanteTrasladoDocumentoDA.cs" />
+    <Compile Include="Datos\clsComprobanteTrasladoDocumentoDetDA.cs" />
+    <Compile Include="Datos\clsComprobanteTrasladoDocumentoDetTmpDA.cs" />
+    <Compile Include="Datos\clsConceptoDA.cs" />
+    <Compile Include="Datos\clsFlujoDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoConceptoDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoLinkDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoLinkParametroDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoPredecesorDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoPredecesorLinkDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoPredecesorProcesoDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoPredecesorProcesoPrmDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoPredecesorTDocCondDA.cs" />
+    <Compile Include="Datos\clsFlujoNodoTipoDocumentoDA.cs" />
+    <Compile Include="Datos\clsGrupoRestriccionDA.cs" />
+    <Compile Include="Datos\clsGrupoRestriccionDetDA.cs" />
+    <Compile Include="Datos\clsHisConceptoDA.cs" />
+    <Compile Include="Datos\clsHisFlujoNodoDA.cs" />
+    <Compile Include="Datos\clsHisFlujoNodoLinkDA.cs" />
+    <Compile Include="Datos\clsHisGrupoRestriccionDA.cs" />
+    <Compile Include="Datos\clsHisGrupoRestriccionDetDA.cs" />
+    <Compile Include="Datos\clsHisRestriccionDA.cs" />
+    <Compile Include="Datos\clsHisTipoTramiteDA.cs" />
+    <Compile Include="Datos\clsHisTipoTramiteRolUsuarioDA.cs" />
+    <Compile Include="Datos\clsInstanciaDA.cs" />
+    <Compile Include="Datos\clsInstanciaNodoConceptoDA.cs" />
+    <Compile Include="Datos\clsInstanciaNodoDA.cs" />
+    <Compile Include="Datos\clsInstanciaNodoDocumentoDA.cs" />
+    <Compile Include="Datos\clsInstanciaNodoLinkDA.cs" />
+    <Compile Include="Datos\clsRestriccionDA.cs" />
+    <Compile Include="Datos\clsSolicitudTramiteConceptoTmpDA.cs" />
+    <Compile Include="Datos\clsSolicitudTramiteDA.cs" />
+    <Compile Include="Datos\clsSolicitudTramiteDocumentoTmpDA.cs" />
+    <Compile Include="Datos\clsTipoTramiteConceptoDA.cs" />
+    <Compile Include="Datos\clsTipoTramiteDA.cs" />
+    <Compile Include="Datos\clsTipoTramiteRolDA.cs" />
+    <Compile Include="Datos\clsTipoTramiteRolUsuarioDA.cs" />
+    <Compile Include="Datos\clsTipoTramiteTipoDocumentoDA.cs" />
+    <Compile Include="Datos\clsTransicionMasivaDA.cs" />
+    <Compile Include="Datos\clsTransicionMasivaDetDA.cs" />
+    <Compile Include="Datos\clsWorkflowBaseDA.cs" />
+    <Compile Include="Entidades\clsComprobanteTrasladoDocumentoBE.cs" />
+    <Compile Include="Entidades\clsComprobanteTrasladoDocumentoDetBE.cs" />
+    <Compile Include="Entidades\clsComprobanteTrasladoDocumentoDetTmpBE.cs" />
+    <Compile Include="Entidades\clsConceptoBE.cs" />
+    <Compile Include="Entidades\clsFlujoBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoConceptoBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoLinkBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoLinkParametroBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoPredecesorBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoPredecesorLinkBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoPredecesorProcesoBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoPredecesorProcesoPrmBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoPredecesorTDocCondBE.cs" />
+    <Compile Include="Entidades\clsFlujoNodoTipoDocumentoBE.cs" />
+    <Compile Include="Entidades\clsGrupoRestriccionBE.cs" />
+    <Compile Include="Entidades\clsHisConceptoBE.cs" />
+    <Compile Include="Entidades\clsHisFlujoNodoBE.cs" />
+    <Compile Include="Entidades\clsHisFlujoNodoLinkBE.cs" />
+    <Compile Include="Entidades\clsHisGrupoRestriccionBE.cs" />
+    <Compile Include="Entidades\clsHisGrupoRestriccionDetBE.cs" />
+    <Compile Include="Entidades\clsHisRestriccionBE.cs" />
+    <Compile Include="Entidades\clsHisTipoTramiteBE.cs" />
+    <Compile Include="Entidades\clsHisTipoTramiteRolUsuarioBE.cs" />
+    <Compile Include="Entidades\clsInstanciaBE.cs" />
+    <Compile Include="Entidades\clsInstanciaNodoBE.cs" />
+    <Compile Include="Entidades\clsInstanciaNodoConceptoBE.cs" />
+    <Compile Include="Entidades\clsInstanciaNodoDocumentoBE.cs" />
+    <Compile Include="Entidades\clsInstanciaNodoLinkBE.cs" />
+    <Compile Include="Entidades\clsNodoBE.cs" />
+    <Compile Include="Entidades\clsRestriccionBE.cs" />
+    <Compile Include="Entidades\clsSolicitudTramiteBE.cs" />
+    <Compile Include="Entidades\clsSolicitudTramiteConceptoTmpBE.cs" />
+    <Compile Include="Entidades\clsSolicitudTramiteDocumentoTmpBE.cs" />
+    <Compile Include="Entidades\clsTipoTramiteBE.cs" />
+    <Compile Include="Entidades\clsTipoTramiteConceptoBE.cs" />
+    <Compile Include="Entidades\clsTipoTramiteTipoDocumentoBE.cs" />
+    <Compile Include="Entidades\clsTipoTramiteRolBE.cs" />
+    <Compile Include="Entidades\clsTipoTramiteRolUsuarioBE.cs" />
+    <Compile Include="Entidades\clsTransicionMasivaBE.cs" />
+    <Compile Include="Entidades\clsTransicionMasivaDetBE.cs" />
+    <Compile Include="Entidades\clsWorkflowBaseBE.cs" />
+    <Compile Include="Entidades\clsGrupoRestriccionDetBE.cs" />
+    <Compile Include="Entidades\TipoTramiteTipoDocumento.cs" />
+    <Compile Include="Logica\clsComprobanteTrasladoDocumento.cs" />
+    <Compile Include="Logica\clsComprobanteTrasladoDocumentoDet.cs" />
+    <Compile Include="Logica\clsComprobanteTrasladoDocumentoDetTmp.cs" />
+    <Compile Include="Logica\clsConcepto.cs" />
+    <Compile Include="Logica\clsFlujo.cs" />
+    <Compile Include="Logica\clsFlujoNodo.cs" />
+    <Compile Include="Logica\clsFlujoNodoConcepto.cs" />
+    <Compile Include="Logica\clsFlujoNodoLink.cs" />
+    <Compile Include="Logica\clsFlujoNodoLinkParametro.cs" />
+    <Compile Include="Logica\clsFlujoNodoPredecesor.cs" />
+    <Compile Include="Logica\clsFlujoNodoPredecesorLink.cs" />
+    <Compile Include="Logica\clsFlujoNodoPredecesorProceso.cs" />
+    <Compile Include="Logica\clsFlujoNodoPredecesorProcesoPrm.cs" />
+    <Compile Include="Logica\clsFlujoNodoPredecesorTDocCond.cs" />
+    <Compile Include="Logica\clsFlujoNodoTipoDocumento.cs" />
+    <Compile Include="Logica\clsGrupoRestriccion.cs" />
+    <Compile Include="Logica\clsGrupoRestriccionDet.cs" />
+    <Compile Include="Logica\clsHisConcepto.cs" />
+    <Compile Include="Logica\clsHisFlujoNodo.cs" />
+    <Compile Include="Logica\clsHisFlujoNodoLink.cs" />
+    <Compile Include="Logica\clsHisGrupoRestriccion.cs" />
+    <Compile Include="Logica\clsHisGrupoRestriccionDet.cs" />
+    <Compile Include="Logica\clsHisRestriccion.cs" />
+    <Compile Include="Logica\clsHisTipoTramite.cs" />
+    <Compile Include="Logica\clsHisTipoTramiteRolUsuario.cs" />
+    <Compile Include="Logica\clsInstancia.cs" />
+    <Compile Include="Logica\clsInstanciaNodo.cs" />
+    <Compile Include="Logica\clsInstanciaNodoConcepto.cs" />
+    <Compile Include="Logica\clsInstanciaNodoDocumento.cs" />
+    <Compile Include="Logica\clsInstanciaNodoLink.cs" />
+    <Compile Include="Logica\clsRestriccion.cs" />
+    <Compile Include="Logica\clsSolicitudTramite.cs" />
+    <Compile Include="Logica\clsSolicitudTramiteConceptoTmp.cs" />
+    <Compile Include="Logica\clsSolicitudTramiteDocumentoTmp.cs" />
+    <Compile Include="Logica\clsTipoTramite.cs" />
+    <Compile Include="Logica\clsTipoTramiteConcepto.cs" />
+    <Compile Include="Logica\clsTipoTramiteRol.cs" />
+    <Compile Include="Logica\clsTipoTramiteRolUsuario.cs" />
+    <Compile Include="Logica\clsTipoTramiteTipoDocumento.cs" />
+    <Compile Include="Logica\clsTransicionMasiva.cs" />
+    <Compile Include="Logica\clsTransicionMasivaDet.cs" />
+    <Compile Include="Service1.svc.cs">
+      <DependentUpon>Service1.svc</DependentUpon>
+    </Compile>
+    <Compile Include="IService1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51879/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

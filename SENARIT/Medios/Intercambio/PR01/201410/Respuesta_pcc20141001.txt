@@ -1,0 +1,2 @@
+2|2|El campo: planilla, no cumple con el formato
+2|6|El campo: tipo_cc, no cumple con el formato

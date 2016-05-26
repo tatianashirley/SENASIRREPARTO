@@ -1,0 +1,1 @@
+1|6|El campo: tipo_cc, no cumple con el formato

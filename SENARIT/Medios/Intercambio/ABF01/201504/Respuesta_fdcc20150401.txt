@@ -1,0 +1,2 @@
+5|1|El campo: id_fuente, no cumple con el formato
+4|1|cod_fuente no es el correspondiente

@@ -1,0 +1,29 @@
+﻿
+.modalBackground
+{
+	background-color: Black;
+	filter: alpha(opacity=50); 
+	opacity: 0.50;
+}
+
+.modalPopup
+{
+	background-color:White;
+    color: Black;
+}
+.modalPopup div
+{
+    margin: 5px;
+    text-align: center;
+}
+
+.panelceleste
+{
+    background-color: #F0F8FF;
+    
+    border-color: #6699FF; 
+    border-style: solid; 
+    border-width: thin;
+    
+    elevation: higher;
+}

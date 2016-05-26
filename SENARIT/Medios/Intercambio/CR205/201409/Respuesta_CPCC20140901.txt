@@ -1,0 +1,2 @@
+2|24|El campo: tipo_devolucion, no cumple con el formato
+3|24|El campo: tipo_devolucion, no cumple con el formato

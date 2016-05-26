@@ -1,0 +1,2 @@
+18|ABR|201412|1|205|7972283|20145|103501|||E47|Beneficiarios sin registro del titular o identificador inconsistente
+18|ABR|201412|1|205|100002021|72936|23001|||E45|Derechohabiente existente

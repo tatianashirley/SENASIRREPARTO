@@ -1,0 +1,297 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage"  %>
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">   
+    <script language=javascript type=text/javascript>
+        function stopRKey(evt) {
+            var evt = (evt) ? evt : ((event) ? event : null);
+            var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+            if ((evt.keyCode == 13) && (node.type == "text")) { return false; }
+        }
+        document.onkeypress = stopRKey;
+</script> 
+      <script type="text/javascript" src="../js/jquery-1.10.1.min.js"></script> 
+    <script type="text/javascript" src="../js/jquery.maskedinput.js"></script> 
+    <script type="text/javascript" src="../js/jquery.alphanumeric.js"></script>
+    <%--funcion con la cual al pasar a otro campo lo pre selecciona--%>
+    <script type="text/javascript">
+
+        function selecciona_value(objInput) {
+
+            var valor_input = objInput.value;
+            var longitud = valor_input.length;
+
+            if (objInput.setSelectionRange) {
+                objInput.focus();
+                objInput.setSelectionRange(0, longitud);
+            }
+            else if (objInput.createTextRange) {
+                var range = objInput.createTextRange();
+                range.collapse(true);
+                range.moveEnd('character', longitud);
+                range.moveStart('character', 0);
+                range.select();
+            }
+        }
+
+</script> 
+<%--    <script type="text/javascript">
+    if(history.forward(1)){
+history.replace(history.forward(1));
+}
+    </script>--%>
+    <script type="text/javascript">
+        //Funcion que valida que el dato ingresado es decimal
+        function validadecimal(campo) {
+            var elcampo = document.getElementById(campo);
+            if ((!validarNumero(elcampo.value))) {
+
+                elcampo.focus();
+
+                elcampo.value = "";
+                document.getElementById('mensaje').innerHTML = 'Debe ingresar un mes correcto';
+            } else {
+                //  document.getElementById('mensaje').innerHTML = '';
+                
+                // Aqui pones el resto de las condiciones usando comparadores u operadores aritméticos, ya que estás seguro de que trabajas con números
+
+            }
+
+        }
+        //Valida que el dato ingresado es entero
+
+        function validarNumero(input) {
+            return (!isNaN(input) && parseInt(input) == input) || (!isNaN(input) && parseFloat(input) == input);
+        }
+   
+    </script>
+    <%--Redondeo a dos decimales--%>
+
+    <script type="text/javascript">
+        function redondeo2decimales(campo)
+        {
+            var elcampo = document.getElementById(campo);
+            flotante = parseFloat(elcampo.value)
+            var resultado = Math.round(flotante * 100) / 100;            
+            elcampo.value = resultado.toFixed(2);
+    } </script>
+    <title>
+    </title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+   </asp:ContentPlaceHolder>
+<%--    <style type="text/css">
+        
+        .auto-style4 {
+            height: 32px;
+        }
+        
+
+
+        </style>--%>
+      <script type="text/javascript">
+          //selecciona todos los checked
+          function SelectAll(id) {
+              id.focus(); id.select()
+          }
+          //permite pasar con la tecla enter a un determinado campo
+          function focusNext(elemActual, elemSiguiente, evt) {
+              if (evt != null) {
+                  evt = (evt) ? evt : event;
+                  var charCode = (evt.charCode) ? evt.charCode : ((evt.which) ? evt.which : evt.keyCode);
+                  if (charCode == 13 || charCode == 3) {
+
+                      if (document.getElementById(elemSiguiente).type == 'submit') {
+                          // averigua si es un button
+
+                          document.getElementById(elemSiguiente).click();
+
+                          evt.keyCode = 0;
+                          return false;
+                      }
+                      else {
+                          document.getElementById(elemSiguiente).focus();
+                          evt.keyCode = 0;
+                          return false;
+                      }
+                  }
+              }
+          }
+        </script>  
+
+</head>
+<body  >
+    <form id="form1" runat="server" method="post" >
+        <asp:ScriptManager ID="ScriptManager1" runat="server"  EnableScriptGlobalization="true" EnableScriptLocalization="true" AsyncPostBackTimeOut= "360000 ">
+            <CompositeScript>
+                <Scripts>                   
+                    <asp:ScriptReference  Path="~/js/jquery-1.10.1.min.js" />
+                    <asp:ScriptReference   Path="~/js/jquery.maskedinput.js" />
+                    <asp:ScriptReference   Path="~/js/jquery.alphanumeric.js" />
+                </Scripts>
+            </CompositeScript>
+        </asp:ScriptManager>
+         <asp:updatepanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional"> 
+    <ContentTemplate>
+    <div>             
+        <table style="width:100%;">
+            <tr>
+                <td align="center">
+                                    <asp:Panel ID="pnlMP" runat="server" Width="1200px">
+                                        <table style="width:100%;" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td width="17%" style="width: 100%">
+                                                    <div class="newencabezado">
+                                                    <asp:Panel ID="pnlEncabezado" runat="server" BackImageUrl="~/Imagenes/bannerSENASIR.png"  Width="1200px">
+                                                        <table style="width:100%;">
+                                                            <tr>
+                                                                <td align="center" width="16%" valign="middle">
+                                                                    <asp:Panel ID="pnlLogo" runat="server" BackImageUrl="~/Imagenes/logoSENASIR.png" Height="30px" Width="100%">
+                                                                    </asp:Panel>
+                                                                </td>
+                                                                <td align="center" rowspan="1" valign="middle">
+                                                                    <asp:Label ID="lblCodUsr" runat="server" Font-Names="Arial" Font-Size="XX-Large" ForeColor="Orange" Text="1" Visible="False"></asp:Label>
+                                                                    <asp:Label ID="lblCodOficina" runat="server" Font-Names="Arial" Font-Size="XX-Large" ForeColor="Orange" Text="1" Visible="False"></asp:Label>
+                                                                    <asp:Label ID="lblCodRol" runat="server" Font-Names="Arial" Font-Size="XX-Large" ForeColor="Orange" Text="1" Visible="False"></asp:Label>                                                                    
+                                                                    <asp:Label ID="lblSistema" runat="server" Font-Names="Arial" Font-Size="XX-Large" ForeColor="Orange" ></asp:Label>
+                                                                </td>
+                                                                <td align="right" height="70%" rowspan="1" valign="middle" width="16%">
+                                                                    <asp:Image ID="imgDW" runat="server" ImageUrl="~/Imagenes/usr.png" style="height: 16px" />
+                                                                    <asp:Label ID="lblNombreCompleto" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="Gold" style="text-align: left" Text="CuentaUsuario"></asp:Label>||
+                                                                    <asp:Label ID="lblCerrar" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="Gold" style="text-align: left" Text="Cerrar Sesion"></asp:Label>
+                                                                    <asp:Button ID="btnCerrar" runat="server" Text="X" Height="20px" OnClick="btnCerrar_Click" />
+                                                                    <br />
+                                                                    <asp:Label ID="lblOficina" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="Gold" style="text-align: left" Text="Oficina"></asp:Label>||
+                                                                    <asp:Label ID="lblArea" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="Gold" style="text-align: left" Text="Area"></asp:Label>||
+                                                                    <asp:Label ID="lblRol" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="Gold" style="text-align: left" Text="Rol"></asp:Label>||
+                                                                    <br />
+                                                                    <asp:Label ID="lblFecha" runat="server" Font-Bold="True" Font-Names="Arial" Font-Overline="False" Font-Size="8pt" ForeColor="Gold" style="text-align: right" Text="FechaDelServidor"></asp:Label>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </asp:Panel>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td  valign="top" width="16%" align="left" >   
+                                                    <div class="newencabezado">
+                                                    <asp:Panel ID="pnlMenu" runat="server">
+                                                        <asp:Menu Orientation="Horizontal" ID="Menu" runat="server" BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" Font-Names="Arial" Font-Size="X-Small" ForeColor="White" StaticDisplayLevels="1" style="text-align: left" Width="20px"   >
+                                                            <DynamicMenuStyle BackColor="ScrollBar" />
+                                                            <DynamicMenuItemStyle BackColor="#6d8ea8" BorderColor="lightsteelblue" BorderStyle="Solid" BorderWidth="1px" Height="20px" HorizontalPadding="1" ItemSpacing="1px" VerticalPadding="1"  Width="100%"  />
+                                                            <DynamicHoverStyle BackColor="#004d75" Font-Bold="true" ForeColor="Gold" Height="0px" />
+                                                            <StaticMenuStyle BackColor="#004d75" BorderColor="lightsteelblue" BorderStyle="Solid" BorderWidth="1" Height="20px" HorizontalPadding="1px" VerticalPadding="1px"  />
+                                                            <StaticMenuItemStyle BorderColor="lightsteelblue" BorderStyle="Solid" BorderWidth="1px" Height="20px" HorizontalPadding="10px" ItemSpacing="1px" VerticalPadding="1" />
+                                                            <StaticHoverStyle BackColor="#004d75" Font-Bold="true" ForeColor="Gold" Height="20px" />
+                                                           
+                                                        </asp:Menu>
+                                                    </asp:Panel>   
+                                                    </div>                                                                                                                                    
+                                                </td>
+                                            </tr>
+                                            
+                                            <tr >
+
+                                                <td  style="background-color:#d17784" valign="top" width="16%" align="left">
+                                                    <div class="newencabezado">
+                                                    <asp:Image ID="imgError" runat="server" ImageUrl="~/Imagenes/16eliminar.png" Height="20px" Width="28px" Visible="false" />
+                                                    <asp:Label ID="lblError" runat="server" Font-Names="Arial" Font-Size="Small" ForeColor="White" Visible="false"></asp:Label>
+                                                     <div>
+                                                         <asp:Panel ID="pnlMensaje" runat="server" CssClass="CajaDialogoError" Style="display: none;">
+                                                             <div>
+                                                                 <table align="center" cellpadding="0" cellspacing="0" width="400px">
+                                                                     <%--<tr>
+                                                                         <td align="center">
+                                                                             <h3>Detalle del Error</h3>
+                                                                         </td>
+                                                                     </tr>--%>
+                                                                     <tr>
+                                                                         <td align="center">
+                                                                             <h5>
+                                                                                 <asp:Label ID="lblDetalleError" runat="server"></asp:Label>
+                                                                             </h5>
+                                                                         </td>
+                                                                     </tr>
+                                                                     <tr>
+                                                                         <td align="center">
+                                                                             <asp:Button ID="btnCancelar" runat="server" Text="Aceptar" />
+                                                                         </td>
+                                                                     </tr>
+                                                                 </table>
+                                                                 <br />
+                                                             </div>
+                                                         </asp:Panel>
+                                                         <cc1:ModalPopupExtender ID="pnlMensaje_ModalPopupExtender" runat="server"  CancelControlID="btnCancelar" DropShadow="true" Enabled="True" PopupControlID="pnlMensaje" TargetControlID="lblError"  />
+                                                    </div>
+                                                    </div>
+
+
+                                                </td>
+                                            </tr>
+                                             <tr>
+                                                 <td  style="background-color:#f7f3a0" valign="top" width="16%" align="left">
+                                                   <div class="newencabezado"> 
+                                                     <asp:Image ID="imgWarning" runat="server" Height="30px" Width="30px" ImageUrl="~/Imagenes/warning.png"  Visible="false" />
+                                                     <asp:Label ID="lblWarning" runat="server" Font-Names="Arial" Font-Size="Small" ForeColor="#000000" visible="false"></asp:Label>
+                                                  </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                 <td  style="background-color:#2d7c61" valign="top" width="16%" align="left">
+                                                    <div class="newencabezado">
+                                                     <asp:Image ID="imgOk" runat="server" Height="20px" ImageUrl="~/Imagenes/pequeños/Check_32x32.png" Width="28px" Visible="false" />
+                                                     <asp:Label ID="lblOk" runat="server" Font-Names="Arial" Font-Size="Small" ForeColor="White" visible="false"></asp:Label>
+                                                     <div>
+
+                                                     </div>  
+                                                        </div>
+
+
+                                                </td>
+                                            </tr>
+                                                
+                                            <tr>
+                                                <td  valign="top" width="16%">
+                                                
+                                                    <div class="panelprincipal2">
+                                                    <asp:Panel ID="pnlCPH" runat="server">
+                                                    
+                                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                                        </asp:ContentPlaceHolder>
+                                                    
+                                                    </asp:Panel>
+                                                        </div>
+                                                     
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="auto-style4">
+                                                    <asp:Panel ID="pnlPie" runat="server" class="panelsecundario" Font-Names="Arial" Font-Size="8pt" HorizontalAlign="Center" Width="1200px">
+                                                        Derechos Reservados&nbsp;<asp:HyperLink ID="HyperLink1" runat="server" CssClass="link" NavigateUrl="http://www.senasir.gob.bo">Servicio Nacional del Sistema de Reparto</asp:HyperLink>
+                                                        &nbsp;<br /> Version.::<asp:Label ID="lblVersion" runat="server" Text=""></asp:Label>::.
+                                                    </asp:Panel>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </asp:Panel>
+                </td>
+            </tr>
+            </table>
+    </div>
+           </ContentTemplate>
+    </asp:updatepanel>
+
+    <asp:UpdateProgress ID="UpdateProgress1" runat="server" DisplayAfter="0" AssociatedUpdatePanelID="UpdatePanel1">
+        <ProgressTemplate>
+            <div class="overlay" />
+            <div class="overlayContent">
+                <h2>Loading...</h2>
+                <img src="../App_Themes/Imagenes/ajax-loader.gif" alt="Loading" border="1" />
+            </div>
+        </ProgressTemplate>
+    </asp:UpdateProgress> 
+    </form>
+
+</body>
+</html>

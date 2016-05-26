@@ -1,0 +1,55 @@
+﻿body{
+	/*background-color:#ECF5FB;*/
+	/*background-image:url(../Imagenes/Frames/Stage_BG_btm.png);*/
+	background-position:center bottom;
+	background-repeat:repeat-x;
+	font-family:Tahoma,Verdana,Segoe,sans-serif;
+	font-size:70%;
+	padding-bottom:20px;
+    }
+
+.box{   
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+	font-size:95%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.btnPrin {    
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+    font-size:95%;    
+    background-color:#6d8ea8;
+    color: white;
+    height: 21px;
+}
+
+.filaBtn {
+    background-color:#ECF5FB;
+    text-align: center;
+}
+
+.filaTit {
+    background-color:#ECF5FB;
+    text-align: center;    
+}
+
+.boxFecha {
+    background-color:#87CEEB;
+    width: 75px;
+}
+
+.tabla_resaltada {
+    border-style:dashed;
+    border-color:azure;
+    width: 200px;
+    height: 50px;
+    background-color:#ECF5FB;    
+}
+.recuadro_tr {
+    border-color:azure;
+    border-bottom-style:inset;
+    height:50px;
+    background-color: azure;
+}
+
+

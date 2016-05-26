@@ -1,0 +1,95 @@
+﻿body {
+}
+
+/* mensajes */     
+
+/*SI EL MENSAJE ES DEL TIPO ERROR */
+
+		.MensajeHeaderError 
+		{
+			background:url(Imagenes/error_header.gif) repeat-x; 
+			color:Black; 
+			border-bottom:none;
+		}
+		
+		.CajaDialogoError
+        {
+            
+            background:#fff url(Imagenes/error_bg.jpg) bottom right no-repeat;
+            border-width: 1px;
+            border-style:solid;
+            border-color:#F78181;
+            padding: 0px;
+            width: 400px;
+            height:auto;
+                        
+        }
+       
+        .CajaDialogo div
+        {
+            margin: 0px;
+            text-align: center;
+            vertical-align:middle;
+        }
+        
+         .FondoAplicacion
+        {
+            background-color:ButtonShadow;
+            filter: alpha(opacity=55);
+            opacity: 0.5;
+        }
+              
+        .updateProgress 
+
+		{ 
+			border-width: 1px; 
+		    border-style: solid; 
+		    background-color: #FFFFFF; 
+		    position: absolute; 
+		    width: 450px; 
+		    height: 310px; 
+		} 
+		
+		/*SI EL MENSAJE ES DEL TIPO CORRECTO */
+		.CajaDialogoCorrecto
+        {
+            
+            background:#fff url(Imagenes/correcto.jpg) bottom right no-repeat;
+            border-width: 1px;
+            border-style:solid;
+            border-color:#4B8A08;
+            padding: 0px;
+            width: 430px;
+            height:auto;
+                        
+        }
+        
+        .MensajeHeaderCorrecto 
+		{
+			background:url(Imagenes/correcto_header.gif) repeat-x; 
+			color:Black; 
+			border-bottom:none;
+		}
+		
+		/*SI EL MENSAJE ES DEL TIPO ADVERTENCIA */
+
+		.MensajeHeaderAdvertencia 
+		{
+			background:url(Imagenes/warning_header.gif) repeat-x; 
+			color:Black; 
+			border-bottom:none;
+		}
+		
+		.CajaDialogoAdvertencia
+        {
+            
+            background:#fff url(Imagenes/warning.jpg) bottom right no-repeat;
+            border-width: 1px;
+            border-style:solid;
+            border-color:#D7DF01;
+            padding: 0px;
+            width: 430px;
+            height:auto;
+                        
+        }
+

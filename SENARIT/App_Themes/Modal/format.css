@@ -1,0 +1,48 @@
+﻿.cssHeaderImg {
+            background-image: url(Imagenes/Frames/Menu5.png);
+        }
+select
+{           
+    background-color: #c6cfd9;      
+} 	
+input:focus
+{
+    background-color:#c6cfd9;
+}
+button {
+    width:100px;
+}
+
+/*Estilo para la barra de proceso #B8E8FE;*/
+ .overlay  
+        {
+          position: absolute;
+          z-index: auto;
+          top: 0px;
+          left: 0px;
+          right: 0px;
+          bottom: 0px;
+            background-color: #aaa; 
+            filter: alpha(opacity=80); 
+            opacity: 0.8; 
+        }
+        .overlayContent
+        {
+          position: static;
+            z-index: auto;
+          margin: 250px auto;
+          width: 80px;
+          height: 80px;
+        }
+        .overlayContent h2
+        {
+            font-size: 18px;
+            font-weight: bold;
+            color: #000;
+        }
+        .overlayContent img
+        {
+          width: 80px;
+          height: 80px;
+        }
+/*Estilo para las fechas*/

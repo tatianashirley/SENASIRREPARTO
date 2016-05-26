@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Basic DataGrid - jQuery EasyUI Demo</title>
+	<link rel="stylesheet" type="text/css" href="../../themes/default/easyui.css">
+	<link rel="stylesheet" type="text/css" href="../../themes/icon.css">
+	<link rel="stylesheet" type="text/css" href="../demo.css">
+	<script type="text/javascript" src="../../jquery.min.js"></script>
+	<script type="text/javascript" src="../../jquery.easyui.min.js"></script>
+</head>
+<body>
+	
+	<table id="dataGridBuscarNovedad" class="easyui-datagrid" style="width:auto;height:370px" url="Novedades.json" title="Datos de Personas Registradas" iconCls="icon-save" sortName="itemid" sortOrder="asc" rownumbers="true" pagination="true" runat="server">
+            <thead>
+                <tr>
+                    <th field="NUP" width="auto" sortable="true">NUP</th>
+                    <th field="IdTipoDocumento" width="auto" sortable="true">TIPO DE DOCUMENTO</th>
+                    <th field="IdEstadoCivil" width="auto" align="right" sortable="true">ESTADO CIVIL</th>
+                    <th field="IdEntidadGestora" width="auto" align="right" sortable="true">CAJA DE SALUD</th>
+                    <th field="IdSexo" width="auto">SEXO</th>
+                    <th field="CUA" width="auto" align="center">CUA</th>
+                    <th field="Matricula" width="auto" align="center">MATRICULA</th>
+                    <th field="NUB" width="auto" align="center">NUB</th>
+                    <th field="NumeroDocumento" width="auto" align="center">NRO. DOCUMENTO</th>
+                    <th field="ComplementoSEGIP" width="auto" align="center">COMPLEMENTO SEGIP</th>
+                    <th field="IdDocumentoExpedido" width="auto" align="center">EXPEDIDO</th>
+                    <th field="PrimerNombre" width="auto" align="center">PRIMER NOMBRE</th>
+                    <th field="SegundoNombre" width="auto" align="center">SEGUNDO NOMBRE</th>
+                    <th field="PrimerApellido" width="auto" align="center">APELLIDO PATERNO</th>
+                    <th field="SegundoApellido" width="auto" align="center">APELLIDO MATERNO</th>
+                    <th field="ApellidoCasada" width="auto" align="center">APELLIDO CASADA</th>
+                    <th field="FechaNacimiento" width="auto" align="center">FECHA NACIMIENTO</th>
+                    <th field="FechaFallecimiento" width="auto" align="center">FECHA FALLECIMIENTO</th>
+                    <th field="IdPaisResidencia" width="auto" align="center">PAIS DE RESIDENCIA</th>
+                    <th field="CorreoElectronico" width="auto" align="center">CORREO ELECTRONICO</th>
+                    <th field="Celular" width="auto" align="center">CELULAR</th>
+                    <th field="CelularReferencia" width="auto" align="center">CELULAR REFERENCIA</th>
+                    <th field="Direccion" width="auto" align="center">DIRECCION</th>
+                    <th field="IdLocalidad" width="auto" align="center">LOCALIDAD</th>
+                    <th field="Telefono" width="auto" align="center">TELEFONO</th>
+                    <th field="RegistroActivo" width="auto" align="center">REGISTRO ACTIVO</th>
+                    <th field="IdHuella" width="auto" align="center">IDHUELLA</th>
+                    <th field="FechaRegistroPersona" width="auto" align="center">FECHA DE REGISTRO</th>
+                    <th field="IdUsuarioRegistro" width="auto" align="center">ID USUARIO REGISTRO</th>
+                </tr>
+            </thead>
+        </table>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+148|24|El campo: estado, no cumple con el formato
+209|24|El campo: estado, no cumple con el formato
+303|24|El campo: estado, no cumple con el formato
+421|24|El campo: estado, no cumple con el formato

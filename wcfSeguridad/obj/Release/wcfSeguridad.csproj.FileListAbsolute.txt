@@ -1,0 +1,4 @@
+D:\VS2015\SENARIT\wcfSeguridad\bin\wcfSeguridad.dll
+D:\VS2015\SENARIT\wcfSeguridad\bin\wcfSeguridad.pdb
+D:\VS2015\SENARIT\wcfSeguridad\obj\Release\wcfSeguridad.dll
+D:\VS2015\SENARIT\wcfSeguridad\obj\Release\wcfSeguridad.pdb

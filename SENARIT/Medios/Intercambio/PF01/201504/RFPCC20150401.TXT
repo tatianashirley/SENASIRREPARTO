@@ -1,0 +1,14 @@
+30|60|PF|201504|1|01|100014586|70475|10833874|20150401|100|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100014586|70475|10833874|20150401|150|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100014586|70475|12687928|20150401|100|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100014586|70475|12687928|20150401|150|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|25|PF|201504|1|01|100072021|49391|978811|20150201|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+30|60|PF|201504|1|01|100072021|49391|978811|20150201|100|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100072021|49391|978811|20150201|150|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|25|PF|201504|1|01|100072021|49391|978811|20150201|150|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+30|25|PF|201504|1|01|100072021|49391|978811|20150401|100|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+30|25|PF|201504|1|01|100072021|49391|978811|20150401|150|E32|Titular sin baja por fallecimiento, se esta pagando actualmente al Derechohabiente
+30|60|PF|201504|1|01|100073074|34872|2861772|20150401|100|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100073074|34872|2861772|20150401|150|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100076531|62078|4771346|20150401|100|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH
+30|60|PF|201504|1|01|100076531|62078|4771346|20150401|150|E86|Devengos no correspondientes por ser anteriores a la fecha ini del DH

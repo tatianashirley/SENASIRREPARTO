@@ -1,0 +1,293 @@
+﻿using System;
+
+using System.Data;
+
+using System.Configuration;
+
+using System.Linq;
+
+using System.Web;
+
+using System.Web.Security;
+
+using System.Web.UI;
+
+using System.Web.UI.HtmlControls;
+
+using System.Web.UI.WebControls;
+
+using System.Web.UI.WebControls.WebParts;
+
+using System.Xml.Linq;
+
+using System.Drawing.Imaging;
+
+using System.Drawing;
+
+using System.IO;
+
+ 
+
+//public class BigImgHandler: IHttpHandler
+    public partial class Auxiliar_CodigoQRI : IHttpHandler
+
+{
+
+	public bool IsReusable
+
+	{
+
+		get{return true;}
+
+	}
+
+ 
+
+	public void ProcessRequest(HttpContext context)
+
+	{
+
+		ProcesarSolicitud(context);
+
+
+	}
+
+ 
+
+	public int Width { get; set; }
+
+	public int Height { get; set; }
+
+ 
+
+	public void Inicialize()
+
+	{		
+
+		this.Width = 700;
+
+	}
+
+ 
+
+ 
+
+	private void ProcesarSolicitud(HttpContext context)
+
+	{
+
+		Inicialize();
+
+		context.Response.Clear();
+
+		string imgurl = context.Request["img"];
+
+		context.Response.ContentType = GetContentType(imgurl);
+
+		string path = VirtualPathUtility.ToAbsolute(imgurl);
+
+		path = context.Server.MapPath(path);
+
+		byte[] buffer = GetImagen(path, Width, Height);
+
+		context.Response.BinaryWrite(buffer);
+
+	}
+
+	
+
+	byte[] GetImagen(String path, int width, int height)
+
+	{
+
+	using (FileStream fs = 
+
+	       new FileStream(path, FileMode.Open, FileAccess.Read))
+
+	 {
+
+	 using (Bitmap imgIn = new Bitmap(fs))
+
+	  {
+
+	  double y;
+
+	  double x;
+
+	  double ratio;
+
+	  DeterminarRatio(width, height, imgIn, 
+
+			  out y, out x, out ratio);
+
+	    using (System.IO.MemoryStream outStream = 
+
+		   new System.IO.MemoryStream())
+
+	    {
+
+	      using (Bitmap imgOut = 
+
+                     new Bitmap((int)(x * ratio), (int)(y * ratio)))
+
+	      {
+
+	        using (Graphics g = Graphics.FromImage(imgOut))
+
+	        {
+
+	           NewImage(path, imgIn, y, x, factor, 
+
+			    outStream, imgOut, g);
+
+	        }
+
+		return outStream.ToArray();
+
+	      }
+
+	     }
+
+	    }
+
+	   }
+
+	  }
+
+ 
+
+	private void NewImage(String path, Bitmap imgIn, 
+
+			      double y, double x, double ratio, 
+
+			      System.IO.MemoryStream outStream, 
+
+			      Bitmap imgOut, Graphics g)
+
+	{
+
+		g.Clear(Color.White);
+
+		g.DrawImage(imgIn, 
+
+			    new Rectangle(0, 0, (int)(ratio* x), 
+
+			    (int)(ratio * y)), 
+
+			    new Rectangle(0, 0, (int)x, (int)y), 
+
+			    GraphicsUnit.Pixel);
+
+ 
+
+		imgOut.Save(outStream, GetImageFormat(path));
+
+	}
+
+ 
+
+	private static void DeterminarRatio
+
+	(int width, int height, Bitmap imgIn, 
+
+	out double y, out double x, out double ratio)
+
+	{
+
+		y = imgIn.Height;
+
+		x = imgIn.Width;
+
+		ratio = 1;
+
+		if (width > 0)
+
+		{
+
+			ratio = width / x;
+
+		}
+
+		else if (height > 0)
+
+		{
+
+			ratio = height / y;
+
+		}
+
+	}
+
+ 
+
+	string GetContentType(String path)
+
+	{
+
+		switch (Path.GetExtension(path))
+
+		{
+
+		case ".bmp": 
+
+			return "Image/bmp";
+
+		case ".gif": 
+
+			return "Image/gif";
+
+		case ".jpg": 
+
+			return "Image/jpeg";
+
+		case ".png": 
+
+			return "Image/png";
+
+		default:
+
+			return "";
+
+		} 
+
+	}
+
+ 
+
+	ImageFormat GetImageFormat(String path)
+
+	{
+
+		switch (Path.GetExtension(path))
+
+		{
+
+		case ".bmp": 
+
+			return ImageFormat.Bmp;
+
+		case ".gif": 
+
+			return ImageFormat.Gif;
+
+		case ".jpg": 
+
+			return ImageFormat.Jpeg;
+
+		case ".png": 
+
+			return ImageFormat.Png;
+
+		case ".ico":
+
+			return ImageFormat.Icon;
+
+		default: 
+
+			return ImageFormat.Jpeg;
+
+		}
+
+	}
+
+}
